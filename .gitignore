@@ -1,0 +1,6 @@
+/venv/
+/results.json
+/exams/
+.idea
+.DS_Store
+

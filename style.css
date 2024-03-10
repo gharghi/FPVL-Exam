@@ -1,0 +1,66 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4; /* Light grey background */
+}
+
+#quiz-container {
+  padding: 20px;
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #fff; /* White background for the container */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow around the container */
+  border-radius: 8px; /* Rounded corners */
+}
+
+#question {
+  font-size: 24px; /* Slightly larger question text */
+  margin-bottom: 24px;
+  color: #333; /* Darker text for better readability */
+}
+
+#options {
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  width: calc(100% - 20px); /* Adjust width to account for padding */
+  padding: 12px 10px; /* Slightly larger padding for a better touch target */
+  margin: 10px 0;
+  font-size: 18px; /* Larger font size */
+  cursor: pointer;
+  border: 2px solid #007bff; /* Solid border with primary color */
+  background-color: #fff; /* White background */
+  color: #007bff; /* Primary color text */
+  border-radius: 5px; /* Rounded corners */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+button:hover, button.correct-answer, button.incorrect-answer {
+  color: white; /* White text on hover and for answer feedback */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  border-color: #0056b3;
+}
+
+button.correct-answer {
+  background-color: #28a745; /* Green background for correct answers */
+  border-color: #28a745;
+}
+
+button.incorrect-answer {
+  background-color: #dc3545; /* Red background for incorrect answers */
+  border-color: #dc3545;
+}
+
+#result {
+  font-size: 22px; /* Slightly larger result text */
+  font-weight: bold;
+  color: #333; /* Darker text color for result */
+  margin-top: 20px;
+}

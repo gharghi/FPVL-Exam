@@ -1,0 +1,3539 @@
+{
+    "exams": [
+        {
+            "name": "Exam Level2 2017",
+            "questions": [
+                {
+                    "question": "The institution responsible for regulating the non-military aviation in Portugal is:",
+                    "options": [
+                        "Secretaria de Estado das Infraestruturas, Transportes e Comunicações (The State Agency for Infrastructure, Transport and Communications).",
+                        " Instituto Nacional de Aviação Civil, IP(National Institute for Civil Aviation).",
+                        " Instituto da Mobilidade e Transportes, IP(Institute for Mobility and Transport).",
+                        " Federação Portuguesa de Voo Livre (Portuguese Free Flight Federation)."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In Portugal, the sport organism responsible for regulating the free flight is:",
+                    "options": [
+                        "Secretaria de Estado das Infraestruturas, Transportes e Comunicações.(State Agency for the Infrastructure, Transports and Communications)",
+                        "Instituto Português de Desporto e Juventude – IP. (Portuguese Institute of Sport and Youth)",
+                        "Instituto Nacional de Aviação Civil – IP. (National Institute for Civil Aviation)",
+                        "Federação Portuguesa de Voo Livre (Portuguese Free Flight Federation)"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The Regulation of Instruction and Titles (RIT) of the FPVL is a technical document that:",
+                    "options": [
+                        "It can only be altered by the schools with valid working permit.",
+                        "Establishes 5 levels of free flight pilot.",
+                        "Regulates the instruction, titles and training of free flight pilots and instructors.",
+                        "Regulates all the FPVL activity concerning competition and training."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The revalidation of the pilot license obliges to the demonstration that the pilot as done:",
+                    "options": [
+                        "In the 12 months before the revalidation request , at least 200 flights in every class or type of aircraft registered in the license.",
+                        "In the 5 months before the revalidation request , at least 5 flights in every class or type of aircraft registered in the license.",
+                        "In the 12 months before the revalidation request , at least 5 flights in every class or type of aircraft registered in the license.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The requirements to obtain the Free Flight License are:",
+                    "options": [
+                        "16 years and finishing the compulsory education.",
+                        "16 years regardless of finishing the compulsory education.",
+                        "18 years and finishing the compulsory education.",
+                        "18 years regardless of finishing the compulsory education."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The flight rules establish that, in open air, when two pilots are in collision route:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The flight rules establish that when flying close to a ridge if two pilots are in a collision course:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "It is allowed to practice Free Flight",
+                    "options": [
+                        "In non-controlled airspace with a NOTAM issued.",
+                        "Inside the clouds only when we can see the GPS.",
+                        "In controlled airspace only during competition and with communication with Air Traffic Control.",
+                        "In military areas, flying below 300 meters."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Restricted areas are zones in which:",
+                    "options": [
+                        "It is not allowed to fly.",
+                        "It is allowed to fly but there are potential dangers to the air navigation.",
+                        "It is allowed to fly with authorization from the air traffic control.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The current legislation:",
+                    "options": [
+                        "Obliges the revision of the wings every 6 months.",
+                        "Establishes areas where no other aircraft can fly.",
+                        "Obliges the paragliding pilots to fly VFR.",
+                        "Establishes that, with all the instruments we carry (GPS and vario), the competition pilots can fly IFR."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " To improve the efficiency of the emergency parachute we should open it, air it and fold it:",
+                    "options": [
+                        "Every month.",
+                        "Every 18 months.",
+                        "Every 6 months.",
+                        "Every 12 months."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When falling with the parachute the arrival at the ground is violent. The pilot should:",
+                    "options": [
+                        "Run as fast as you can.",
+                        "Use the Roulé Boulé technique.",
+                        "Spread the legs and bend the knees and body.",
+                        "Put the legs together and look at the sky."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If the parachute gets damaged in the landing the pilot should:",
+                    "options": [
+                        "Fix it with what he has on hand.",
+                        "Put it in the garbage.",
+                        "Send it to a qualified technician so that it can be repaired.",
+                        "No repair is needed because the probability of ever using it in this life is very small."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When doing the inspection of the emergency parachute one should:",
+                    "options": [
+                        "Leave it in the shade to air out at least one day.",
+                        "Iron each wrinkle, preferably with a cool iron.",
+                        "Hang it in the sun for a few hours to eliminate all the moist.",
+                        "Spread some resin in the lines to reduce the friction."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " When doing the inspection of the emergency parachute the pilot should have in mind:",
+                    "options": [
+                        "The temperature of the day so that the lines don’t suffer additional stretching.",
+                        "The relative humidity of the day, in order to keep the parachute with some moist.",
+                        "The place where it will be folded in order to keep it clean from animals and dirt.",
+                        "Do it only in the morning."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " At a take-off at 3.800 meters:",
+                    "options": [
+                        "The necessary speed to take off is the same as taking off at sea level.",
+                        "Hypoxia symptoms are a factor to be aware.",
+                        "Due to the cold the helmet should be substituted by a wool cap.",
+                        "The only possible way to take off is with reverse launch due to the wind gradient."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The potential risk of the paragliding activity is greatly raised with the use of:",
+                    "options": [
+                        "Energetic drinks.",
+                        "Orange juice.",
+                        "Natural juices.",
+                        "Alcohol and drugs."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " When a pilot has a severe inflammation of the hearing system and/or of the vestibular system he should:",
+                    "options": [
+                        "Fly low.",
+                        "Fly without restriction.",
+                        "Fly slowly.",
+                        "Fly on another day."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Capability to fly:",
+                    "options": [
+                        "Regardless the health condition of the pilot if he can fly he should not stay in the ground. Practice leads to perfection.",
+                        "When symptoms of illness or fatigue are present the decision to fly on another day is the better option.",
+                        "Even if the night rest was not enough the pilot should fly because the weather may not be good the next time.",
+                        "When a pilot is not in good physical condition he should make distance flights so he can practice and get more fit doing this."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If a pilot as done scuba diving he should wait before flying:",
+                    "options": [
+                        "If he has done one single dive, 5 days.",
+                        "If he has done one single dive, 8 days.",
+                        "If he has done several dives or several days diving, 30 days.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A low pressure originated by thermal activity:",
+                    "options": [
+                        "Is formed by the heating of the lower layers of the atmosphere.",
+                        "Will get stronger when the precipitation cools the air below.",
+                        "The circulation of cold air in the lower levels can help its beginning.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " An adiabatic process is a thermodynamic process in which:",
+                    "options": [
+                        "There are no swaps of pressure with the surroundings.",
+                        "There are swaps of pressure with the surroundings.",
+                        "There are no swaps of heat with the surroundings.",
+                        "There are swaps of heat with the surroundings."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In a situation with strong wind:",
+                    "options": [
+                        "It´s a good factor that helps the organization of good thermals because the wind is a good trigger.",
+                        "It´s a good factor that helps the organization of strong thermals.",
+                        "It´s a good factor that helps the continuous release of bubbles not allowing enough time for consistent thermals to form.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In case of a strong and consistent thermal the wind:",
+                    "options": [
+                        "Breaks it and turns it in to a turbulent situation.",
+                        "Goes around it like a normal obstacle creating zones of windward and leeward.",
+                        "It blasts down the gradient and the thermal.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The amount of water that the air can store depends on the temperature and the purity of that air.",
+                    "options": [
+                        "The lower the temperature and the higher the purity, higher quantity of water it can hold.",
+                        "The higher the temperature and the higher the purity, lower quantity of water it can hold.",
+                        "The higher the temperature and the higher the purity, higher quantity of water it can hold.",
+                        "There is no relation between the amount of water that the air can hold and its temperature and purity."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Formation of clouds:",
+                    "options": [
+                        "After the passage of a cold front we might have showers, many cumulus and periods of blue sky.",
+                        "A cloud formed by the convection has its origin in a mass of air that goes up and never reaches the dew point.",
+                        "The formation of cirrostratus is a good indicator of thermal activity.",
+                        "The cumulus humilis are always formed in the presence of a low pressure or when a hot front is passing."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Clouds classification concerning its height:",
+                    "options": [
+                        "Cirrus are middle clouds (between 3.000m and 6.000m).",
+                        "Cumulonimbus are low clouds (below 3.000m).",
+                        "Altocumulus are high clouds (more than 6.000m).",
+                        "Nimbostratus are middle clouds (between 3.000m and 6.000m)."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Stratus are:",
+                    "options": [
+                        "High clouds that block the solar heating.",
+                        "Low clouds without structure.",
+                        "Clouds that are indicators of good flying conditions.",
+                        "Clouds associated with strong thermals."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In an atmosphere with the characteristic described in the chart below, a mass of air with a trigger point of 26ºC and with a dew point temperature of 8ºC at 600m:",
+                    "options": [
+                        "It will go up until 3.060m where it forms a cloud.",
+                        "It will go up until 2.600m where it reaches the ceiling.",
+                        "It will go up until 2.050m where it will find a strong inversion.",
+                        "It will go up until 3.850m where it reaches the ceiling."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With the data from the previous chart. The air mass:",
+                    "options": [
+                        "Will form a cloud around 2.050m.",
+                        "Will form a cloud around 3.060m.",
+                        "Will form a cloud around 3.850m.",
+                        "It won’t form a cloud because it won’t reach the dew point temperature.."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " We look for thermals in areas:",
+                    "options": [
+                        "Soft and green.",
+                        "With strong thermal contrast.",
+                        "With soft thermal contrast.",
+                        "Without thermal contrast."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In order to better utilize the thermal lift:",
+                    "options": [
+                        "If it´s strong and narrow the pilot should turn in a tighter circle.",
+                        "If it´s strong and narrow the pilot should turn in a wider circle.",
+                        "If it´s weak and wide the pilot should turn in a tighter circle.",
+                        "To turn in a wider or narrow circle has no relation with the dimension or strength of the thermal."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In the presence of wind, in order to better utilize the thermal lift, the pilot should:",
+                    "options": [
+                        "Make a lot of short turns in order to be as centered as possible.",
+                        "Make a zig-zag in order to be as centered as possible.",
+                        "Follow the drift of the thermal in order to be as centered as possible.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " To make the most of the flight, the pilot should go from one thermal to the next when:",
+                    "options": [
+                        "There are other pilots going up in the same thermal.",
+                        "There are other pilots in the same thermal but they can’t go up.",
+                        "The thermal is getting weak and it is possible to reach a better one.",
+                        "The thermal is strong and the lift rate is high."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When inside of a thermal, the pilot should:",
+                    "options": [
+                        "Stay as still as possible.",
+                        "Seek constantly the strongest core.",
+                        "Leave the thermal several times to find the edges of the lift.",
+                        "Fly in a straight line."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " As the day passes the thermals get:",
+                    "options": [
+                        "Weaker around 15 hours.",
+                        "Stronger at the evening.",
+                        "Weaker at the evening.",
+                        "Maintain their strength."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In the MacCready theory the calculations have their base in:",
+                    "options": [
+                        "The wing coefficient of lift and drag.",
+                        "The level of wing torsion.",
+                        "The wing polar curve.",
+                        "The wing aspect ratio."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The MacCready ring gives indication about the speed that the pilot should have based in:",
+                    "options": [
+                        "Strongest lift ahead, fly faster.",
+                        "Strongest lift ahead, fly slower.",
+                        "Strongest lift ahead, maintain the medium speed of the wing.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In an accident:",
+                    "options": [
+                        "The most important is to call a person that the victim knows.",
+                        "The most important is to cry really high for help.",
+                        "The cardiac arrest is a situation of primary help.",
+                        "To keep the victim immobilized is not relevant."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a primary survey to the victim the most important is:",
+                    "options": [
+                        "To know the name and phone number of the victims contact.",
+                        "Don’t act if you’re not a licensed rescuer.",
+                        "To move away the danger from the victim, avoiding more accidents.",
+                        "Protect the victims property."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In order to achieve the maximum performance from the flight the optimization of the speed is fundamental. The pilot should:",
+                    "options": [
+                        "In the presence of lift fly faster.",
+                        "With tail wind fly faster.",
+                        "With head wind fly faster.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the glide and wing loading of a profile:",
+                    "options": [
+                        "The best glide is not altered by the wing loading.",
+                        "The best glide is obtained with a lower wing loading.",
+                        "The best glide is obtained with a higher wing loading.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A strong decrease in the angle of attack might cause:",
+                    "options": [
+                        "A stall.",
+                        "A frontal collapse.",
+                        "An asymmetric collapse.",
+                        "A parachutage."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In order to better optimize the thermal lift if the pilot makes the turn to slow the wing can go into:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Sustained stall.",
+                        "Parachutage.",
+                        "Dynamic stall."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Aerodynamic:",
+                    "options": [
+                        "The speed decreases when the angle of attack decreases.",
+                        "The speed increases when the angle of attack increases.",
+                        "The speed increases when the angle of attack decreases.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When the wing loading increases a wing will go in a stall at a horizontal velocity:",
+                    "options": [
+                        "Lower.",
+                        "Equal",
+                        "Higher.",
+                        "The increase of the wing loading has no relation with the stall speed."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In order to keep himself inside of the thermal a pilot acts on both brakes symmetrically. If he decreases the velocity too much he will make:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Complete stall.",
+                        "Frontal collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " After an asymmetric collapse a pilot should:",
+                    "options": [
+                        "Make a full stall to recover from the collapse.",
+                        "Use the speed system to control the pitch.",
+                        "Stop the wing from turning.",
+                        "Raise both hands to allow the wing to recover from the collapse faster."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The pitch movement happens on the axis:",
+                    "options": [
+                        "Vertical and it should be stopped with a symmetrical action on the brakes.",
+                        "Lateral and it should be stopped with a symmetrical action on the brakes.",
+                        "Longitudinal and it should be stopped with a symmetrical action on the brakes.",
+                        "The free flight aircrafts don´t make pitch movements."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The pitch should be controlled because it may cause:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Total stall.",
+                        "Frontal collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "Exam Level2 2018",
+            "questions": [
+                {
+                    "question": "The institution responsible for regulating the non-military aviation in Portugal is:",
+                    "options": [
+                        "The State Agency for Infrastructure, Transport and Communications.",
+                        " National Autority for Civil Aviation.",
+                        "Institute for Mobility and Transport.",
+                        "Portuguese Free Flight Federation."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In Portugal, the sport organism responsible for regulating the free flight is:",
+                    "options": [
+                        "State Agency for the Infrastructure, Transports and Communications.",
+                        "Portuguese Institute of Sport and Youth.",
+                        "National Autority for Civil Aviation.",
+                        "Portuguese Free Flight Federation."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The Regulation of Instruction and Titles (RIT) of the FPVL is a technical document that:",
+                    "options": [
+                        "It can only be changed by the schools with a valid working permission.",
+                        "Establishes 5 levels of free flight pilot.",
+                        "Regulates the instruction, titles and training of free flight pilots and instructors.",
+                        "Regulates all the FPVL activity concerning competition and training."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The revalidation of the pilot license obliges to the demonstration that the pilot as done:",
+                    "options": [
+                        "In the 12 months before the revalidation request , at least 200 flights in every class or type of aircraft registered in the license.",
+                        "In the 5 months before the revalidation request , at least 5 flights in every class or type of aircraft registered in the license.",
+                        "In the 12 months before the revalidation request , at least 5 flights in every class or type of aircraft registered in the license.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The requirements to obtain the Free Flight License are:",
+                    "options": [
+                        "16 years and finishing the compulsory education.",
+                        "16 years regardless of finishing the compulsory education.",
+                        "18 years and finishing the compulsory education.",
+                        "18 years regardless of finishing the compulsory education."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The flight rules establish that, in open air, when two pilots are in collision route:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The flight rules establish that when flying close to a ridge if two pilots are in a collision course:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "It is allowed to practice Free Flight",
+                    "options": [
+                        "In non-controlled airspace with NOTAM.",
+                        "Inside the clouds only when we can see the GPS.",
+                        "In controlled airspace only during competition and with communication with Air Traffic Control.",
+                        "In military areas, flying below 300 meters."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Restricted areas are zones in which:",
+                    "options": [
+                        "It is not allowed to fly.",
+                        "It is allowed to fly but there are potential dangers to the air navigation.",
+                        "It is allowed to fly with authorization from the air traffic control.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The current legislation:",
+                    "options": [
+                        "Obliges the revision of the wings every 6 months.",
+                        "Establishes areas where no other aircraft can fly.",
+                        "Obliges the paragliding pilots to fly VFR.",
+                        "Establishes that, with all the instruments we carry (GPS and vario), the competition pilots can fly IFR."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the equipment:",
+                    "options": [
+                        "The trailing edge is the front of the wing when it is in flight.",
+                        "Stabilizers are the anchor points of the wing to the hangers.",
+                        "Cell is the portion of the wing comprised between two main internal profiles.",
+                        "The extruder is the underside of the wing when it is in flight."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With regard to the type-approval of equipment, tests shall be carried out on:",
+                    "options": [
+                        "Structural and flight resistance.",
+                        "Structural strength, longevity and durability of the material.",
+                        "Flight to calculate the best performance.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Measuring instruments:",
+                    "options": [
+                        "An anemometer measures the accuracy of the wind.",
+                        "An altimeter works based on the variation of the atmospheric pressure.",
+                        "A variometer works based on the wind speed variation.",
+                        "A tuned wind sleeve always points north."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When falling with the parachute the arrival at the ground is violent. The pilot should:",
+                    "options": [
+                        "Run as fast as you can.",
+                        "Use the Roulé Boulé technique.",
+                        "Spread the legs and bend the knees and body.",
+                        "Put the legs together and look at the sky."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When doing the inspection of the emergency parachute one should:",
+                    "options": [
+                        "Leave it in the shade to air out at least one day.",
+                        "Iron each wrinkle, preferably with a cool iron.",
+                        "Hang it in the sun for a few hours to eliminate all the moist.",
+                        "Spread some resin in the lines to reduce the friction."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " At a take-off at 3.800 meters:",
+                    "options": [
+                        "The necessary speed to take off is the same as taking off at sea level.",
+                        "Hypoxia symptoms are a factor to be aware.",
+                        "Due to the cold, the helmet should be substituted by a wool cap.",
+                        "The only possible way to take off is with reverse launch due to the wind gradient."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The potential risk of the paragliding activity is greatly raised with the use of:",
+                    "options": [
+                        "Energetic drinks.",
+                        "Orange juice.",
+                        "Natural juices.",
+                        "Alcohol and drugs."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " When a pilot has a severe inflammation of the hearing system and/or of the vestibular system he should:",
+                    "options": [
+                        "Fly low.",
+                        "Fly without restriction.",
+                        "Fly slowly.",
+                        "Fly on another day."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Capability to fly:",
+                    "options": [
+                        "Regardless the health condition of the pilot if he can fly he should not stay in the ground. Practice leads to perfection.",
+                        "When symptoms of illness or fatigue are present the decision to fly on another day is the best option.",
+                        "Even if the night rest was not enough the pilot should fly because the weather may not be good the next time.",
+                        "When a pilot is not in good physical condition he should make distance flights so he can practice and get more fit doing this."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If a pilot as done scuba diving he should wait before flying:",
+                    "options": [
+                        "If he has done one single dive, 15 days.",
+                        "If he has done one single dive, 25 days.",
+                        "If he has done several dives or several days diving, 30 days.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Why does the air move?",
+                    "options": [
+                        "The atmosphere constantly tries to match the pressure and temperature differences caused by the differential heating of the regions.",
+                        "The atmosphere constantly tries to equalize the differences in pressure and humidity caused by the distinct humidity of the regions.",
+                        "The atmosphere constantly tries to equalize the differences in humidity and temperature caused by the distinct humidity of the regions.",
+                        "The atmosphere does not have any interference in this process."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In a system of high pressures the wind circulates:",
+                    "options": [
+                        "Counter-clockwise if in the northern hemisphere.",
+                        "Counter-clockwise if in the southern hemisphere.",
+                        "Counter-clockwise in both hemispheres.",
+                        "Clockwise in both hemispheres."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The leeward could be:",
+                    "options": [
+                        "The side where the dynamic flight is made.",
+                        "A dangerous place full of rotors.",
+                        "The part of the obstacle exposed to the wind.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The earth breeze is mainly due to:",
+                    "options": [
+                        "Overheating of the land relative to the sea.",
+                        "Differential heating of land and sea.",
+                        "Warming of land and sea.",
+                        "It has no relation to the warming of land and sea."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Sea breezes, usually:",
+                    "options": [
+                        "It blows during the afternoon on the east coast of mainland Portugal.",
+                        "It blows during the night and morning on the west coast of mainland Portugal.",
+                        "It blows during the afternoon on the west coast of mainland Portugal.",
+                        "It is dry and turbulent."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The vertical movements of the air:",
+                    "options": [
+                        "They originate from the uniform heating of the earth's surface.",
+                        "They are always very smooth and stable.",
+                        "They may prevent safe flight practice.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " It's high clouds:",
+                    "options": [
+                        "Cumulonimbus Cumulus, Nimboestrates and Stratus.",
+                        "Cirrus, cirrostratus and cirrocumulus;",
+                        "Altostratus, Altocumulus and Stratocumulus.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Cirrus clouds are:",
+                    "options": [
+                        "White convection and fibrous appearance.",
+                        "High, white, translucent, formed by ice crystals.",
+                        "Greyish thick and without definite shape.",
+                        "Greyish looking, making the sky appear to be covered with large sheep."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " For frontal surfaces:",
+                    "options": [
+                        "A frontal system is always associated with strong north wind.",
+                        "When passing a cold front we always have sun and blue sky.",
+                        "A front is a line separating two air masses of different characteristics, mainly in temperature and humidity.",
+                        "A front may be fresh, hot or a little warm."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Frontal systems are associated with:",
+                    "options": [
+                        "Low pressure systems.",
+                        "Depressive valleys.",
+                        "High pressure systems.",
+                        "Barometric marshes."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Before flying, the pilot must:",
+                    "options": [
+                        "Plan your flight with a high precision chart.",
+                        "Wash the chair and clean all equipment.",
+                        "Plan your flight and check the NOTAM to see if there is any aerial activity planned for the location and the trajectory.",
+                        "Call the FPVL to request a NOTAM."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Ears (wing surface decrease) are used in paragliding for:",
+                    "options": [
+                        "Reduce the rate of fall.",
+                        "Increase the rate of fall.",
+                        "Maintain the rate of fall.",
+                        "It is an instability manoeuver that should only be used by very experienced pilots."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " To fly around without any external influence, a paraglider tends to:",
+                    "options": [
+                        "Up.",
+                        "Maintain altitude.",
+                        "Descend.",
+                        "Close."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With regard to the study of velocities of a given profile, a velocity polar is established in the relation between:",
+                    "options": [
+                        "The maximum speed and the rate of ascent.",
+                        "The horizontal speed and the rate of ascent.",
+                        "The vertical velocity and the horizontal velocity.",
+                        "The vertical velocity and the rate of fall."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Turbulence track are air disturbances left:",
+                    "options": [
+                        "Only by large aircraft.",
+                        "Only by motor aircraft.",
+                        "Only by non-powered aircraft.",
+                        "By any aircraft in flight."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " In the event of an accident in a very windy place",
+                    "options": [
+                        "Control of the wing should be a concern.",
+                        "The thermal protection of the victim is irrelevant.",
+                        "First of all, you should remove the victim of the chair/ harness and protect it from the wind.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In case of bleeding caused by a stick in the leg:",
+                    "options": [
+                        "Apply heart massage.",
+                        "Not acting, awaiting the arrival of adequate means of assistance;",
+                        "Apply indirect manual compression at the femoral artery.",
+                        "Apply direct manual compression at the site of bleeding."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " After a violent landing in the middle of cliffs, the victim complains of headaches, appears confused, drowsy and vomits. We suspect:",
+                    "options": [
+                        "Internal bleeding.",
+                        "Fracture.",
+                        "Cranial trauma.",
+                        "Hypothermia."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In an accident:",
+                    "options": [
+                        "The most important is to call a person that the victim knows.",
+                        "The most important is to cry really high for help.",
+                        "The cardiac arrest is a situation of primary help.",
+                        "To keep the victim immobilized is not relevant."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a primary survey to the victim the most important is:",
+                    "options": [
+                        "To know the name and phone number of the victims contact.",
+                        "Don’t act if you’re not a licensed rescuer.",
+                        "To move away the danger from the victim, avoiding more accidents.",
+                        "Protect the victim’s property."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The principle of support has as reference, with regard to its more usual explanation, the flow of air in the upper surface relative to the lower surface, being:",
+                    "options": [
+                        "The lowest velocity in the lower surface is higher in the upper surface.",
+                        "Same velocity in the lower surface and the upper surface.",
+                        "The lowest velocity in the upper surface is higher in the lower surface.",
+                        "In this explanation, there is no relation between the velocity of the air in the upper surface and that of the lower surface."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The RFA is the sum of the forces:",
+                    "options": [
+                        "Weight and resistance.",
+                        "Sustainability and Resistance.",
+                        "Support and weight.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When in motion, a wing is subject to resistances:",
+                    "options": [
+                        "Pressure and friction.",
+                        "Pressure. Only when above 28Km / h.",
+                        "Friction. Only when above 28Km / h.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A wing may stall if the pilot:",
+                    "options": [
+                        "Decrease its speed below the maximum speed of flight.",
+                        "Decreases its speed below the minimum speed of flight.",
+                        "It increases its speed above the maximum speed of flight.",
+                        "It increases its speed above the minimum speed of flight."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Regarding the glide and wing loading of a profile:",
+                    "options": [
+                        "The best glide is not altered by the wing loading.",
+                        "The best glide is obtained with a lower wing loading.",
+                        "The best glide is obtained with a higher wing loading.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Aerodynamic:",
+                    "options": [
+                        "The speed decreases when the angle of attack decreases.",
+                        "The speed increases when the angle of attack increases.",
+                        "The speed increases when the angle of attack decreases.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a wing with speed, hands on top or neutral bar, of 40 km/h that moves at 45 km/h, we can consider that:",
+                    "options": [
+                        "It moves with wind front in the order of 15 km/h.",
+                        "It moves with wind from the back in the order of 15 km / h.",
+                        "It moves in a descending one with a speed of rise in the order of the 1,5m/s.",
+                        "It moves in an ascending one with a speed of rise in the order of the 1,5m/s."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " After an asymmetric collapse a pilot should:",
+                    "options": [
+                        "Make a full stall to recover from the collapse.",
+                        "Use the speed system to control the pitch.",
+                        "Stop the wing from turning.",
+                        "Raise both hands to allow the wing to recover from the collapse faster."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The pitch movement happens on the axis:",
+                    "options": [
+                        "Vertical and it should be stopped with a symmetrical action on the brakes.",
+                        "Transversal and it should be stopped with a symmetrical action on the brakes.",
+                        "Longitudinal and it should be stopped with a symmetrical action on the brakes.",
+                        "The free flight aircrafts don´t make pitch movements."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The pitch should be controlled because it may cause:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Total stall.",
+                        "Frontal collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "Exam Level2 2019",
+            "questions": [
+                {
+                    "question": "Civil aviation organizations:",
+                    "options": [
+                        "The International Civil Aviation Organization (ICAO) has its seat in Switzerland.",
+                        "The Chicago Convention, signed on 7 December 1944, was set up in the European Aviation Safety Agency (EASA).",
+                        "The FPVL is a National Authority for Light Aircraft Aviation (Paragliding and Delta Wing) and Auxiliary Engine (Paramotor).",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "In Portugal, a sports regulator for Free Flying and Paramotor is:",
+                    "options": [
+                        "The Ministry of Transport.",
+                        "A State Secretariat for Youth and Sport.",
+                        "The Portuguese Institute of Youth and Sports.",
+                        "Portuguese Free Flight Federation (FPVL)."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The Instruction and Titling Regulations of the FPVL is a technical document that:",
+                    "options": [
+                        "Only FPVL schools with a valid operating license can change it.",
+                        "Established the entire training structure for pilots and instructors of Free Flight and Paramotor.",
+                        "Regulates all associative activity of FPVL.",
+                        "Only General Assembly of the FPVL can change it."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "The Learning License:",
+                    "options": [
+                        "It is valid for 1 year and can be consecutively revalidated for 5 years.",
+                        "Allows the student to fly, even without the presence of the instructor responsible.",
+                        "It is possible to have it from the age of 14.",
+                        "It is possible to have it from the age of 16."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Requirements for obtaining a Pilot License:",
+                    "options": [
+                        "14 years old and completed compulsory minimum education.",
+                        "16 years old.",
+                        "18 years old and completed the minimum compulsory schooling.",
+                        "21 years old."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The renewal of a pilot license has not been valid for 3 years, it obliges:",
+                    "options": [
+                        "12 months prior to the renewal request, at least 5 flights in each of the classes or types registered in the license.",
+                        "In the 3 months prior to the request for renewal, at least 5 flights in each of the classes or types registered in the license.",
+                        "Have passed a flight test administered by a flight examiner in each of the classes or types of aircraft, less than 3 months ago.",
+                        "Have passed a written exam for less than 6 months."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Flight rules state that:",
+                    "options": [
+                        "When two paraglider pilots are on a collision course, one increase and one decrease.",
+                        "Non-powered aircraft have priority over the rest.",
+                        "Paraglider has priority over a balloon.",
+                        "Paramotor has priority over a Paraglider."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "It is allowed the practice of Free Flying",
+                    "options": [
+                        "Exclusively in airspace controlled in direct and constant communication with the air traffic management.",
+                        "Exclusively in uncontrolled airspace in direct and constant communication with air traffic management.",
+                        "Within clouds since you can still see the GPS.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Prohibited areas may be associated with the defense of a state, and are areas where:",
+                    "options": [
+                        "To enable identification of the aircraft it is mandatory to fly below 300 meters.",
+                        "It is only allowed to fly when expressly authorized.",
+                        "It is allowed to fly below 300 meters, but there are potential dangers to air navigation, so it is up to the pilot / commander to use them.",
+                        "It is not allowed to fly under any circumstances."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Current legislation:",
+                    "options": [
+                        "Prevent the practice of Free Flying in aerial area type G.",
+                        "establish flight practice areas where any other aircraft may fly.",
+                        "Requires the pilot to have a personal accident insurance and a civil liability insurance.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the equipment:",
+                    "options": [
+                        "The trailing edge is the front of the wing when it is in flight.",
+                        "Stabilizers are the anchor points of the wing to the hangers.",
+                        "Cell is the portion of the wing comprised between two main internal profiles.",
+                        "The extruder is the underside of the wing when it is in flight."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The minimum flight velocity of a wing is one in which the wing:",
+                    "options": [
+                        "It has the capacity to fly faster.",
+                        "Is close to the velocity of loss.",
+                        "Can run better.",
+                        "Can no longer hold."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Measuring instruments:",
+                    "options": [
+                        "An altimeter measures the height of the clouds.",
+                        "A variometer works based on changes in atmospheric pressure.",
+                        "An anemometer gives the distance based on wind changes.",
+                        "A GPS is an instrument for evaluating atmospheric pressure."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The anti-forgetting system in the flight chair",
+                    "options": [
+                        "It is part of the connection of the chair to the elevators;",
+                        "It is part of the connection of the acceleration system of the wing that is in the chair.",
+                        "Compose ABS crusader systems.",
+                        "It is part of the leg straps when they are independent;"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The acquisition of a wing by a pilot candidate must take into account",
+                    "options": [
+                        "High performance with regard to glide and velocity.",
+                        "Only the best price you will get at your subsequent sale.",
+                        "The advice of the instructor with whom the training was given.",
+                        "Only the greater durability of the material from which it is made."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Hyperventilation phenomena at altitude:",
+                    "options": [
+                        "They originate the greatest amount of oxygen available in these places.",
+                        "They are characterized by a calm and deep breathing.",
+                        "May cause dizziness, vertigo, chest pain and / or fainting.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a take off at about 1.000 meters altitude:",
+                    "options": [
+                        "Headaches and disorientation may be a symptom of hypoxia.",
+                        "Nausea and vomiting can not be symptoms of hypoxia.",
+                        "Uncoordinated movements may be hypoxia symptoms.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The valsalva maneuver should be used.",
+                    "options": [
+                        "With the decrease of the altitude/ increase of the atmospheric pressure.",
+                        "As altitude increases/ decreases atmospheric pressure.",
+                        "Only underwater diving activities.",
+                        "Never. There is no effect of altitude/ air pressure variation on the perineal ears and sinuses."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " With signs of anxiety and fear,",
+                    "options": [
+                        "It is not worrisome for the pilot, they are natural things for the person who flies.",
+                        "The pilot may have to make adjustments to the flight plan or even cancel it.",
+                        "No importance should be given as long as there is no danger of panic.",
+                        "Immediately the pilot should be taken to a hospital emergency."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " For greater safety of the pilot in the practice of Free Flying, it is recommended:",
+                    "options": [
+                        "Ignore their psychological state, for fear of flying is a natural thing for humans.",
+                        "Be influenced to take off by other people.",
+                        "Never fly alone.",
+                        "Ignore warnings from more experienced pilots."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The wind has origin ...",
+                    "options": [
+                        "... in the attempt of the atmosphere to equalize the pressure and temperature differences caused by the differential heating of the regions.",
+                        "... in the constant movement of the earth (Rotation and translation).",
+                        "... in the force of Coriolis.",
+                        "... in inertia phenomena."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The wind",
+                    "options": [
+                        "Viscosity and turbulence do not affect the wind.",
+                        "The effect of Coriolis only influences the local winds (Brisas).",
+                        "The temperature does not influence the wind.",
+                        "The direction and intensity of the wind can be conditioned by the relief."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Large distances from isobars indicate:",
+                    "options": [
+                        "Light wind or no wind at all.",
+                        "Moderate wind.",
+                        "Strong wind.",
+                        "The proximity or spacing of the isobars has no relation to the wind velocity."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Valley and mountain breezes:",
+                    "options": [
+                        "Hill breezes originate from the same heating of the plain relative to the hill.",
+                        "The intensity and duration of the hill breeze is directly proportional to its size.",
+                        "To make the hill breeze stronger, the air is drawn from the atmosphere to the mountains.",
+                        "When the mountains are part of a mountain range, it is impossible to create a system of breezes with air drawn from the nearby plains."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The sea breeze is mainly due to:",
+                    "options": [
+                        "Overheating of the land relative to the sea.",
+                        "Overheating of the sea to the earth.",
+                        "Equal warming of land and sea.",
+                        "There is no relation between the warming of the land and the sea with the sea breeze."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The vertical movements of the air:",
+                    "options": [
+                        "have their origin in the differentiated cooling of the sea from the ground.",
+                        "They are always very soft and stable.",
+                        "They are usually unstable and may be turbulent.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Stratus are clouds:",
+                    "options": [
+                        "Low, without structure, thin and uniform.",
+                        "Averages, grayish-white in which the sky seems covered with sheep.",
+                        "High, translucent white and of a more or less compact fibrous aspect.",
+                        "High, thick gray and without form."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In their classification of altitude, we consider high clouds:",
+                    "options": [
+                        "Cirrus, cirrostratus and cirrocumulus;",
+                        "Cumulonimbus Cumulonimbus, Nimbostratus and Stratus.",
+                        "Altostratus, Altocumulus.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Frontal systems are associated with:",
+                    "options": [
+                        "Low pressure systems.",
+                        "Depressive valleys.",
+                        "High pressure systems.",
+                        "Barometric marshes."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Frontal system occlusion:",
+                    "options": [
+                        "It is a unique and very unlikely meteorological phenomenon to happen.",
+                        "It occurs when the cold front reaches the hot front.",
+                        "It occurs when the hot front reaches the cold front.",
+                        "It is given when the cold front slows down and then stops."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The preparation and planning of the flight.",
+                    "options": [
+                        "Provides for the need to consult active NOTAMs.",
+                        "Due to the unpredictability of the weather, Free Flight is an activity of improvisation, any preparation or planning is dispensable.",
+                        "Due to the type of flight, it should only take into account the logistics organization of the group that will fly.",
+                        "It is a funny theoretical theme but without any practical applicability for Free Flight."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Take-off",
+                    "options": [
+                        "\"Alpine\" should be the preferred technique when there is a weak wind.",
+                        "\"Reverse\" should be the preferred technique in low wind situations.",
+                        "The run must be done by jumping to correct the pressure faults in the wing.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Spiral is a maneuver ...",
+                    "options": [
+                        "... very radical. It should not be used.",
+                        "... to be used only by competition riders.",
+                        "... delicate, so that their learning should be done progressively.",
+                        "... used to climb with more velocity."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A polar is established in the relation between:",
+                    "options": [
+                        "The maximum velocity and the rate of climb;",
+                        "The vertical and the horizontal velocity.",
+                        "The horizontal velocity and the rate of ascent.",
+                        "The vertical velocity and the rate of fall."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " On approach to landing.",
+                    "options": [
+                        "Like any aircraft, paragliders are required to comply with the aeronautical approach.",
+                        "The technique of approximation in L is the one that allows to make a better recognition of the terrain.",
+                        "In strong wind conditions, it is impossible to miss the landing site with the U approach technique.",
+                        "The technique in O is the best way to recognize the terrain from all points of view."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " In the case of a large unintentional asymmetrical collapse the pilot must:",
+                    "options": [
+                        "Support the natural tendency of rotation of the wing to the side of the collapse.",
+                        "Counteract the natural tendency of rotation of the wing to the side of the collapse.",
+                        "Raise and lower the hands several times and quickly.",
+                        "Not intervene. Let the wing act naturally which it recovers by itself."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In an accident in a place with wind",
+                    "options": [
+                        "Control of the wing is not very important.",
+                        "The thermal protection of the injured is irrelevant.",
+                        "First of all, you must remove the injured person from the chair/ harness.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A pilot who, upon landing, has a foot trauma whose position appears to be different from normal, a fracture must be suspected. Therefore, we should proceed as follows:",
+                    "options": [
+                        "Remove the footwear and place the foot in the normal position for the pilot to have less pain.",
+                        "Do not remove the footwear and try to immobilize the foot in the position in which it is.",
+                        "Remove the footwear and try to immobilize the foot in the position in which it is.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In case of venous hemorrhage:",
+                    "options": [
+                        "Always apply, simultaneously with any other action in the veins, direct manual compression in the two carotid arteries in order to decrease circulating blood pressure.",
+                        "Apply, immediately and always, indirect manual compression. For reasons of contamination.",
+                        "Always apply direct manual compression if there are no strange things in the wound.",
+                        "It acts only to reassure the victim and await the arrival of adequate means of assistance."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " After a very violent landing in the middle of cliffs, the victim complains of abdominal pain, appears pale, with cold sweats and thirsty. We suspect:",
+                    "options": [
+                        "Internal bleeding in the abdomen and we should not give him water. Just wet his lips.",
+                        "Cranial trauma and we should not give him water. Just wet his lips.",
+                        "Acute appendicitis and we should not give him water. Just wet his lips.",
+                        "Fracture of the transverse abdominal bone and we should not give it water. Just wet his lips."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The principle of support has as reference, with regard to its more usual explanation, the flow of air in the intruder relative to the extruder, being:",
+                    "options": [
+                        "The highest velocity in the extruder is lower in the intruder",
+                        "The lowest velocity in the extruder is higher in the intruder.",
+                        "The same velocity in the extruder and the intruder.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The RFA is the sum of the forces:",
+                    "options": [
+                        "Weight and resistance.",
+                        "Support and weight.",
+                        "Sustainability and Resistance.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Aerodynamic performance:",
+                    "options": [
+                        "It is a relation between the sustentation that the wing produces and its resistance of form.",
+                        "It is a relation between the support that the wing produces and the parasitic resistance caused by the rest.",
+                        "It is a relation between lift and resistance, known as L / D (Lift / Drag).",
+                        "It is too theoretical a concept typical of airplanes and does not apply to our aircraft."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The wing produces lift and all the rest resistance.",
+                    "options": [
+                        "When several types of resistance combine, they create even greater resistance, that of interference.",
+                        "The shape resistance is produced only by the pilot position.",
+                        "The induced resistance is due to the viscosity of the air.",
+                        "The friction resistance is due to the deflection of the air at the trailing edge back and forth."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The boundary layer:",
+                    "options": [
+                        "In paragliding the boundary layer has a laminar flow.",
+                        "The air adheres to the object due to its viscosity.",
+                        "Paragliding is only turbulent near the point of stagnation.",
+                        "There is no boundary layer in paragliders."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " ​​A wing whose velocity hands above is 44km/h and that at a given moment moves at 22km/h, we can consider that:",
+                    "options": [
+                        "It moves with 22 km/h front wind.",
+                        "It moves with 22 km/h back wind.",
+                        "It moves in an 2,2m/s ascending (climbing).",
+                        "It moves in a 2,2m/s descending (falling)."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " When making a turn too slow the wing can easily enter:",
+                    "options": [
+                        "Sustained stall.",
+                        "Asymmetric stall.",
+                        "Dynamic stall.",
+                        "Parachuting."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The definition of wingloading is expressed as follows:",
+                    "options": [
+                        "The relationship between the weight of the wing and its surface.",
+                        "the relationship between the total weight of the flight equipment and the wing surface.",
+                        "The relationship between the total weight in flight (pilot and equipment) and the wing surface.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In aerodynamic terms:",
+                    "options": [
+                        "Decreasing the angle of attack the speed decreases.",
+                        "Decreasing the angle of attack increases speed.",
+                        "Increasing angle of attack increases speed.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The pitch must be well controlled as it may cause:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Total stall.",
+                        "Front collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "Exam Level2 2020",
+            "questions": [
+                {
+                    "question": "Civil aviation organizations:",
+                    "options": [
+                        "The International Civil Aviation Organization (ICAO) has its headquarters in Switzerland.",
+                        "From the Chicago Convention, signed on December 7, 1944, the European Aviation Safety Agency (EFSA) was created.",
+                        "FPVL is the National Authority for light gliding aviation (Paragliding and Hang Gliding) and auxiliary engine (Paramotor).",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The General Assembly of the Portuguese Free Flight Federation is an organ ...",
+                    "options": [
+                        "... FPVL management executive.",
+                        "... technician where schools decide about instruction.",
+                        "... administrative that manages the way licenses are issued.",
+                        "... of maximum decision and in which all pilots, instructors and judges are represented."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The Instruction and Titles Department (DIT) of the Portuguese Free Flight Federation is an organ...",
+                    "options": [
+                        "... executive.",
+                        "... technical.",
+                        "... administrative.",
+                        "... associative"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "The current sports legislation and regulations:",
+                    "options": [
+                        "It requires personal accident insurance for all members of sports federations.",
+                        "Obliges to have personal accident insurance only for pilots competing.",
+                        "Obliges to have a civil liability only to pilots who compete.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "In competition, the first instance to appeal in case of complaints about problems that occurred during the day's race is:",
+                    "options": [
+                        "The Organizer.",
+                        "The Director of the Competition.",
+                        "The Competition Judge.",
+                        "The President of FPVL."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Flight rules provide that:",
+                    "options": [
+                        "A Paramotor has priority over a Paraglider.",
+                        "Aircraft with engines have priority over the others.",
+                        "A balloon has priority over a paraglider.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The renewal of pilot licenses that has not been valid for 5 or more calendar years requires the demonstration of this having made:",
+                    "options": [
+                        "In the 12 months prior to the renewal request, at least 5 flights in each of the classes or types registered in the license.",
+                        "In the 3 months prior to the renewal request, at least 5 flights in each of the classes or types registered in the license.",
+                        "Demonstration of having passed a flight test administered by a flight examiner in each of the relevant classes or types of aircraft less than 3 months ago and having passed a written theory test less than 6 months ago.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The practice of Free Flight is allowed",
+                    "options": [
+                        "Exclusively in controlled air spaces in direct and constant communication with air traffic management.",
+                        "Exclusively in uncontrolled air spaces in direct and constant communication with air traffic management.",
+                        "Exclusively in uncontrolled air spaces regardless of being in direct and constant communication with air traffic management.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "In “uncontrolled airspace” (Class G):",
+                    "options": [
+                        "Competition flights are allowed.",
+                        "The practice of Free Flight and Paramotor is not allowed;",
+                        "Flight within clouds is permitted.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Prohibited areas can be associated with the defense of a state, so they are areas where:",
+                    "options": [
+                        "For reasons of identification, it is only allowed to fly below 5,000 feet (about 1,500m).",
+                        "It is allowed to fly only when expressly authorized.",
+                        "It is allowed to fly but there are potential dangers for air navigation, so it is up to the pilot / commander to use it.",
+                        "It is not allowed to fly under any circumstances."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The most common emergencies that require the use of an emergency parachute are:",
+                    "options": [
+                        "Front closures at high altitude.",
+                        "Strong closures at high altitude.",
+                        "Tangle of tissue in the wires (ties).",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When parachuting, landing on the ground is violent, so you should:",
+                    "options": [
+                        "Run as much as you can.",
+                        "Spread your legs and flex your knees and torso.",
+                        "Use the technique of Roulé Boulé.",
+                        "Put your legs together and look at the sky."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " For the parachute to work as efficiently as possible, it is necessary that:",
+                    "options": [
+                        "Have the connections and the extraction system in good working condition.",
+                        "The connecting carabiners are quick-opening.",
+                        "The fabric is sufficiently porous for air to penetrate and open better.",
+                        "The cords have been well separated at the time of folding."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The wing and the wires should not be stepped on, especially on rocky terrain. If this happens, you should:",
+                    "options": [
+                        "Inspect it, make a report for the brand and have the wires in question replaced.",
+                        "Inspect it immediately and decide according to the damage verified.",
+                        "Get the wing ready immediately and send it to the equipment inspection entity.",
+                        "Get the wing ready immediately and check it in detail at home."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If the parachute is damaged during a landing, the pilot must:",
+                    "options": [
+                        "Do not repair it as the probability of using it again is very low.",
+                        "Kill it immediately.",
+                        "Repair it with the material to which you have access.",
+                        "Use qualified personnel to repair or replace it."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Hyperventilation phenomena at altitude:",
+                    "options": [
+                        "They may come from the smallest amount of oxygen available.",
+                        "They are characterized by slow and deep breathing.",
+                        "They cannot cause dizziness, vertigo, chest pain or fainting.",
+                        "They always occur around 1,200 meters."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Taking off at 4,200 meters above sea level:",
+                    "options": [
+                        "The take-off speed is equal to the speed required at sea level.",
+                        "Symptoms of hypoxia should be a factor to consider.",
+                        "The only possible way to take off is to stop, due to the wind speed.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Pressure effects on the ears and sinuses:",
+                    "options": [
+                        "With the decrease in pressure (rising), the valsalva maneuver should be used.",
+                        "With increasing pressure (going down), the valsalva maneuver should be used.",
+                        "There is no effect of pressure on the ears and sinuses.",
+                        "The effects of pressure are manifested equally to all people."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Immediately after taking off, the pilot must pay attention to:",
+                    "options": [
+                        "If the other pilots present at take-off were willing to fly so as not to do it alone.",
+                        "Maintain the direction of the wing and stabilize the flight before making any necessary adjustments.",
+                        "If there are other pilots flying close to take-off.",
+                        "The correct direction and intensity of the wind."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The Paragliding pilot can be held responsible for not having avoided the collision.",
+                    "options": [
+                        "Except when you are preparing to land.",
+                        "Unless you are complying with all flight rules.",
+                        "Unless the offender is the other pilot (s).",
+                        "Always."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The air heats up by:",
+                    "options": [
+                        "Atmospheric diffusion.",
+                        "Conduction mechanisms.",
+                        "Energy discharges from the terrestrial poles.",
+                        "Action of the sun together with the Coriolis force."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The altitude that the thermal will reach and its speed depends on:",
+                    "options": [
+                        "The proximity of humidity.",
+                        "The direction and speed of the wind at the trigger point.",
+                        "The characteristics of the atmosphere at that time.",
+                        "The average dew point temperature."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " More consistent thermals can be found in:",
+                    "options": [
+                        "Dry and dark soils.",
+                        "Water tanks and other water mirrors.",
+                        "Dense forests;",
+                        "Long and sloping lawns."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " On a flight day, in the case of a strong and very consistent thermal, the wind:",
+                    "options": [
+                        "Break it down into a very turbulent air mass in that area.",
+                        "Undo the gradient and prevent this thermal from rising.",
+                        "Compress it against the floor and do not allow it to come loose.",
+                        "Contour it, as you do any obstacle, creating areas of windward and leeward."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A low pressure of thermal origin:",
+                    "options": [
+                        "It is formed by heating that instability the upper layers of the atmosphere.",
+                        "Its occurrence can be increased by the entry of hot air in the upper layers of the atmosphere.",
+                        "It ends up dissipating when the precipitation cools the air below.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the formation of clouds and fronts:",
+                    "options": [
+                        "A cloud formed by convection originates from a mass of air that rises and reaches the temperature of its dew point.",
+                        "After the passage of a hot front, the temperature drops sharply, the pressure rises and the wind direction stabilizes strong from the northwest.",
+                        "Cumulus humilis are always formed with low pressure or in the passage of a hot front.",
+                        "The formation of cirrus clouds is an indicator of good thermal activity."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Wet adiabatic gradient is the temperature variation of a portion of moist air when it rises or falls and is:",
+                    "options": [
+                        "Approximately 0.6 millibars per 100 meters.",
+                        "Approximately 0.6ºC per 100 meters.",
+                        "Approximately 0.98 millibars per 100 meters.",
+                        "Approximately 0.98ºC per 100 meters."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In a tefigram we can predict:",
+                    "options": [
+                        "When the air temperature line and the dew point line are overlapping, clouds of meteorological origin at that altitude.",
+                        "When the air temperature line and the dew point line overlap, clouds of thermal origin at that altitude.",
+                        "The thermal gradient of the day, provided that the dew point temperature at ground level is less than or equal to 0ºC.",
+                        "The thermal gradient of the day, provided that the dew point temperature at ground level is equal to or greater than 0ºC."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Looking at a tefigram with the following we can quickly conclude that:",
+                    "options": [
+                        "It is a bad day to fly.",
+                        "It is a good day to fly, with ceilings above 200mb.",
+                        "It is a good day to fly, with ceilings at 200mb.",
+                        "It is a good day to fly with ceilings below 200mb."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " With the previous image, and even in a quick and simple way, we can consider that ...",
+                    "options": [
+                        "... between 700 mb and 400 mb the wind should be from the Southwest.",
+                        "... in these conditions cumulus humilis will form.",
+                        "... there are only clouds above 800mb.",
+                        "... is not a good condition for cloud formation."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In the middle of a flight day, we will find thermal ascenders in areas:",
+                    "options": [
+                        "Valleys protected from the sun.",
+                        "With high contrast.",
+                        "Very dense forest.",
+                        "Slight and humid."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " To take advantage of the ascendancy, the pilot must turn “more closed” when the thermal is:",
+                    "options": [
+                        "Weak and wide.",
+                        "Strong and wide.",
+                        "Strong and narrow.",
+                        "Rotating more closely has no relation to the strength or dimension of the thermal ascendant."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " To make the flight profitable, the pilot must leave the thermal when:",
+                    "options": [
+                        "The thermal upward trend is getting weak and it is already possible to reach a better one.",
+                        "The thermal rise is strong and the rate of climb is very high.",
+                        "There are other pilots going up in another thermal ascendant to the side.",
+                        "There are other pilots in the same thermal ascendant and are unable to climb."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " When inside the thermal ascendant, the pilot must try to:",
+                    "options": [
+                        "Stay still in relation to the ground or just with the speed of the drift so as not to leave it.",
+                        "Exit and systematically enter the ascendant to find its limits.",
+                        "Seek, systematically, stronger nucleus.",
+                        "Fly in a zig zag to identify the best rate of climb."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With the intention of making your flight profitable, if near the cloud the pilot finds a more consistent ascendant nucleus, he must:",
+                    "options": [
+                        "Leave it immediately in \"ears\" or spiral to avoid the risk of entering the cloud.",
+                        "Brake to take advantage of it until you enter the cloud slightly and then continue.",
+                        "Accelerate to monetize the rate of climb and the flight avoiding entry into the cloud.",
+                        "Go up until you get close to the cloud and then go down with “ears” or a spiral."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the study of the speeds of a given profile.",
+                    "options": [
+                        "A lower alar load implies greater speed.",
+                        "The alar load has no relation to the profile speed.",
+                        "A higher alar load implies less speed.",
+                        "Less alar load means less speed."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " When a pilot encounters a good line, he must:",
+                    "options": [
+                        "Follow it with the accelerator at maximum so as not to lose it.",
+                        "Follow it taking into account any deviation from the route you are taking.",
+                        "Abandon it quickly if the conditions of the day are of light wind.",
+                        "Abandon it because, certainly, sooner or later it will make you enter a cloud."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A pilot who, when landing, suffers a trauma to his foot, whose position appears to be different from normal, should suspect a fracture. Thus, we should proceed as follows:",
+                    "options": [
+                        "Take off his shoes and put his foot in the normal position for the pilot to have less pain.",
+                        "Do not remove his shoes and try to immobilize his foot in the position it is in.",
+                        "Remove his shoes and try to immobilize his foot in the position it is in.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In case of hemorrhage (bleeding) caused by a stick stuck in a thigh:",
+                    "options": [
+                        "Apply cardiac massage.",
+                        "Not to act and wait for the arrival of adequate means of assistance;",
+                        "Apply indirect manual compression to the nearest artery.",
+                        "Apply direct manual compression to the bleeding site."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " After a very violent landing on rocks, the victim complains of abdominal pain, looks pale, with cold sweats and is thirsty. We suspect:",
+                    "options": [
+                        "Internal bleeding in the abdomen and we should not give it water. Just moisten your lips.",
+                        "Head trauma and we should not give it water. Just moisten your lips.",
+                        "Acute appendicitis and we should not give it water. Just moisten your lips",
+                        "Transverse abdominal bone fracture and we should not give it water. Just moisten your lips"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Generally speaking, for the profitability of the flight it is essential:",
+                    "options": [
+                        "In an ascendant, fly faster.",
+                        "In a descent fly faster.",
+                        "With a back wind, fly faster.",
+                        "With head-on winds, fly slower."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A very sharp decrease in the angle of attack in half the profile can cause:",
+                    "options": [
+                        "A full stall.",
+                        "A front collapse.",
+                        "An asymmetric stall.",
+                        "Asymmetric parachuting."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " If, in order to control a great resistance of the wing to enter a certain mass of air, the pilot drops his hands, the wing can enter in:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Full stall.",
+                        "Parachuting.",
+                        "Front collapse."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When in motion, a wing is subject to resistances:",
+                    "options": [
+                        "Pressure and friction.",
+                        "Pressure. Only when above 28Km / h.",
+                        "Friction. Only when above 28Km / h.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The trimming:",
+                    "options": [
+                        "Establishes the inclination of the wing in relation to the horizon.",
+                        "It is defined by the angle formed between the ends of the leading edge and the middle.",
+                        "It is the quocient between the maximum and minimum chords.",
+                        "It is defined by the radius of the curvature."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " ​​As the wing load decreases, the same wing goes into stall at a horizontal speed:",
+                    "options": [
+                        "Higher.",
+                        "Equal",
+                        "Lower.",
+                        "The increase in the alar load has no relation to the speed of stall."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Due to strong turbulence, the left half of the wing advances strongly and violently. To correct the flight position, the pilot must:",
+                    "options": [
+                        "Pull the two brakes symmetrically.",
+                        "Raise the two brakes symmetrically.",
+                        "Pull the left brake and lift the right one.",
+                        "Pull the right brake and raise the left one."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Following a significant asymmetric collapse, the pilot must:",
+                    "options": [
+                        "Cause a full stall to recover the shape of the profile.",
+                        "Be concerned with preventing the rotation of the wing.",
+                        "Use the accelerator to power the header and recover around it.",
+                        "Relieve the brakes to prevent a full stall."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Following a large tie, the pilot must be technically qualified and properly prepared to:",
+                    "options": [
+                        "Pull the hand strongly on the side of the tie and lift the other one.",
+                        "Pull the hand on the opposite side of the tie and lift the other one.",
+                        "Raise both hands to allow faster recovery.",
+                        "Open the emergency parachute."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The pitch movement takes place on the axis:",
+                    "options": [
+                        "Longitudinal and must be locked with the asymmetric action on the brakes.",
+                        "Transversal and must be stopped with the asymmetric action on the brakes.",
+                        "Transversal and must be locked with the symmetrical action on the brakes.",
+                        "Longitudinal and must be locked with the symmetrical action on the brakes."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "Exam Level2 2021",
+            "questions": [
+                {
+                    "question": "Civil aviation organizations:",
+                    "options": [
+                        "The International Civil Aviation Organization (ICAO) has its headquarters in Canada.",
+                        "From the Chicago Convention, signed on December 7, 1944, emerged the (EASA) European Agency for Aviation Safety.",
+                        "The FPVL is the National Authority for light gliding (Paragliding and Hang-gliding) and auxiliary engine (Paramotor) aviation.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The General Assembly of the Portuguese Free Flight Federation is the organ...",
+                    "options": [
+                        "... executive of FPVL.",
+                        "... technical where schools decide on instruction.",
+                        "... administrative authority that manages the way in which licenses are issued.",
+                        "... of maximum decision and in which all pilots, instructors and judges are represented."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "At FPVL, the Arbitration and Competitions Council is a body...",
+                    "options": [
+                        "... elected.",
+                        "... of appointment of the Board.",
+                        "... of appointment of the President.",
+                        "... of appointment of the General Assembly."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The FPVL Competition Rules is a document that can be changed:",
+                    "options": [
+                        "At a Board meeting.",
+                        "At conferences.",
+                        "For the administrative services.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The Pilot's License:",
+                    "options": [
+                        "It can be issued from the age of 16 with authorization from the Education Supervisor.",
+                        "It can only be issued after the age of 18 years.",
+                        "Can only be renewed 3 times.",
+                        "It does not oblige the association to take out civil liability insurance."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Current legislation:",
+                    "options": [
+                        "Prevents the practice of Free Flying in type G airspace.",
+                        "Establishes restricted areas for the practice of sports flying where no other aircraft can fly.",
+                        "It requires the pilot to have a personal accident and civil liability insurance.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The renewal of pilot licenses that have not been valid for 5 or more calendar years requires:",
+                    "options": [
+                        "In the 12 months prior to the renewal request, at least 5 flights in each of the classes or types registered in the license.",
+                        "In the 3 months prior to the renewal request, at least 5 flights in each of the classes or types registered in the license.",
+                        "Demonstration of having passed a flight test administered by a flight examiner in each of the relevant classes or types of aircraft in less than 3 months and having passed a written theoretical exam in less than 6 months.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The flight rules state that:",
+                    "options": [
+                        "A Paraglider has priority over a Paramotor.",
+                        "Engine aircraft have priority over the others.",
+                        "A Paraglider has priority over a balloon.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Free flight is allowed",
+                    "options": [
+                        "Only in air spaces where direct and constant communication with air traffic management is possible.",
+                        "Only in uncontrolled airspace.",
+                        "Next to the clouds, only while you can see the GPS.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Prohibited areas can be associated with the defense of a state, so they are zones where:",
+                    "options": [
+                        "For identification reasons, it is only allowed to fly below 5,000 feet (about 1,500m).",
+                        "It is allowed to fly but there are potential dangers for air navigation, so its use is at the discretion of the pilot/commander.",
+                        "It is allowed to fly only when expressly authorized.",
+                        "It is not allowed to fly under any circumstances."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The most common emergencies that require the use of an emergency parachute are:",
+                    "options": [
+                        "Front closures.",
+                        "Asymmetrical closures.",
+                        "Ties (Wrap the tissue on the hangers).",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Landing by parachute can be handled without injury when:",
+                    "options": [
+                        "Good contact with the ground is made in a sitting position with feet apart.",
+                        "If you are well prepared, relaxed and with your chin resting on your chest.",
+                        "If you are prepared, running as much as possible when touching the ground.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " For the parachute to work as effectively as possible it is necessary that:",
+                    "options": [
+                        "Have the connections and extraction system in good working order.",
+                        "The connecting carabiners are not quick-opening.",
+                        "The tissue is thin enough for air to penetrate easily.",
+                        "The cords have been very well lubricated at the time of bending."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The opening and maintenance of the emergency parachute",
+                    "options": [
+                        "It can be done by the pilot himself, as long as he knows the technique perfectly.",
+                        "Due to the risk involved, schools should not teach pilots how to do it.",
+                        "It should be done in a place exposed to the sun to dry any moisture that exists in the fabric.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The more regular review of the emergency parachute makes it present more:",
+                    "options": [
+                        "Duration of elasticity in the cords.",
+                        "Compression of the tissue so that it fits better in the container.",
+                        "Humidity.",
+                        "Speed ​​of opening."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Hyperventilation phenomena at altitude:",
+                    "options": [
+                        "They can originate from the largest amount of available oxygen.",
+                        "They are characterized by slow and deep breathing.",
+                        "They can cause dizziness, vertigo, chest pain or even fainting.",
+                        "Always occur around 1200 meters."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " If a pilot, taking off at about 1.000 meters altitude, has...",
+                    "options": [
+                        "... headaches can be a symptom of hypoxia.",
+                        "... nausea and vomiting are not symptoms of hypoxia.",
+                        "... disorientation and uncoordinated movements may be symptoms of hypoxia.",
+                        "... nausea and vomiting may be symptoms of hypoxia."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Effects of pressure on the ears and paranasal sinuses:",
+                    "options": [
+                        "There is no effect of pressure on the ears and sinuses.",
+                        "The effects of pressure are manifested in the same way for all people.",
+                        "With increasing pressure (descending), the valsalva manoeuver should be used.",
+                        "With the pressure decreasing (rising), the valsalva manoeuver should be used."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In the face of signs of great anxiety and even fear,",
+                    "options": [
+                        "It is not a concern for a pilot, they are natural things for those who fly.",
+                        "The pilot may have to make adjustments to the flight plan or even cancel it.",
+                        "It should not be given much importance as long as there is no danger of panic.",
+                        "The pilot must be taken immediately to a hospital emergency."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The following are recommended for the Free Flight activity:",
+                    "options": [
+                        "Accept warnings from more experienced pilots.",
+                        "Allowing yourself to be influenced to take off by other people.",
+                        "Try to decide to fly or not, based on esoteric or religious reasons.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Vertical air movements:",
+                    "options": [
+                        "They originate from the different degree of humidity in the soils.",
+                        "They are not always very smooth and stable.",
+                        "They are essentially due to the effect of temperature when added to the Coriolis force.",
+                        "Even with some agitation and turbulence, they are never an impediment to a Paragliding flight."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The speed of a thermal and the altitude it can reach is related to:",
+                    "options": [
+                        "The proximity to places with more humidity.",
+                        "The temperature it encounters throughout the atmosphere at any given time.",
+                        "The direction and intensity of the wind at the trigger point.",
+                        "The dew point humidity."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " More consistent thermals can be found in:",
+                    "options": [
+                        "Dry and dark soils.",
+                        "Dams and other water mirrors.",
+                        "Dense forests;",
+                        "Long and sloping lawns."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " On a flight day, in the case of a strong and very consistent thermal, the wind:",
+                    "options": [
+                        "Break it up making it a very turbulent air mass in that area.",
+                        "Break it preventing the possibility of climbing from that point.",
+                        "Contours it creating windward and leeward zones.",
+                        "Contours it but does not create windward and leeward zones."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A low pressure of thermal origin is a normal situation in the center of the Iberian Peninsula:",
+                    "options": [
+                        "It is produced in summer, in the interior of the Iberian Peninsula due to the sea breeze that cannot reach it.",
+                        "It is formed by heating the Mesosphere which destabilizes the upper layers of the atmosphere.",
+                        "Its occurrence can be blocked by the entry of cold air at altitude.",
+                        "It ends up dissipating when precipitation cools the air below."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " In Portugal, after the passage of a cold front, the temperature drops sharply...",
+                    "options": [
+                        "... the pressure rises and the wind direction stabilizes strong from the south.",
+                        "...the pressure rises and the wind direction stabilizes strong from the northwest.",
+                        "...the pressure is low and the wind direction stabilizes strong from the south.",
+                        "...the pressure is low and the wind direction stabilizes strong from the northwest."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " It is considered a super adiabatic gradient, if the temperature drop is:",
+                    "options": [
+                        "Less than 0.98°C per 100 meters.",
+                        "Equal to 0.98 millibars per 100 meters.",
+                        "Greater than 0.98°C per 100 meters.",
+                        "There is no super adiabatic gradient."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In a tefigram we can predict:",
+                    "options": [
+                        "The thermal gradient of the day, as long as the dew point temperature at ground level is less than or equal to 3°C.",
+                        "The thermal gradient of the day, provided that the dew point temperature at ground level is equal to or greater than 3ºC.",
+                        "Clouds of meteorological origin at that altitude, when the air temperature and dew point lines are far apart,",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Considers a flight location with take-off at an altitude of 600m and with an atmosphere with the characteristics described in the table. It's a day:",
+                    "options": [
+                        "A good adiabatic gradient. Good for flying.",
+                        "Clear skies and no thermals. Too stable.",
+                        "Cloud formation from the ground (600m).",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With the predictions in the previous table, we can consider that this moment is good for...",
+                    "options": [
+                        "... Staying at home and/or doing another activity.",
+                        "... take-off calmly as it will be a direct flight. Just to “kill the addiction”.",
+                        "... be on take-off prepared to take off.",
+                        "...be in the air and ready to fly away."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In the middle of the flight day, thermal ascendants are searched for:",
+                    "options": [
+                        "Valleys more protected from the sun.",
+                        "More dense forest.",
+                        "Places with water.",
+                        "High contrast areas."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " To make better use of the ascent, the pilot should run less inclined when the thermal is:",
+                    "options": [
+                        "Weak and wide.",
+                        "Weak and narrow.",
+                        "Strong and narrow.",
+                        "Rotating more flat or inclined has no relation to the strength or dimension of the thermal rise."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " To make the flight profitable, the pilot must leave the thermal when:",
+                    "options": [
+                        "There are other pilots climbing on another thermal ascendant on the side.",
+                        "There are other pilots in the same thermal ascendant and they are no longer able to climb.",
+                        "The thermal ascendant is getting weak and it is already possible to reach a better one.",
+                        "The thermal rise is strong and the ascent rate is very high."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When inside the thermal ascendant, the pilot should try to:",
+                    "options": [
+                        "Search, systematically, for the strongest nucleus.",
+                        "Keep almost stationary in relation to the ground or only with the speed of the drift so as not to get out of it.",
+                        "Systematically exit and enter the ascendant to try to find its limits.",
+                        "Flying in “U” to be able to identify the best rate of climb."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Regarding the study of the velocities of a given profile.",
+                    "options": [
+                        "Greater wing load implies greater speed.",
+                        "Lower wing load implies higher speed.",
+                        "Lower wing load implies higher speed.",
+                        "Wing load is not related to profile velocity."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " To make the flight profitable, if near the cloud the pilot finds a more consistent ascending nucleus, he must:",
+                    "options": [
+                        "Abandon it immediately in “ears” or spiral to avoid the risk of entering the cloud.",
+                        "Brake a little to take advantage of it until you enter the cloud slightly and then continue.",
+                        "Accelerate to make the most of the climb rate and the flight avoiding entry into the cloud.",
+                        "Go up until you reach the entrance to the cloud and then go down with “ears” or spiral."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When a pilot encounters an ascending line, he must:",
+                    "options": [
+                        "Follow it with the accelerator at the maximum so as not to lose it.",
+                        "Follow it, taking into account any deviation from the route he is taking.",
+                        "Abandon it quickly if the day's conditions are windy.",
+                        "Abandon it because, of course, sooner or later it will enter the cloud."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A pilot who upon landing suffers trauma to a foot, whose position appears to be different from normal, should be suspected of having a fracture. Therefore, we should proceed as follows:",
+                    "options": [
+                        "Do not remove your shoes and place your foot in the normal position.",
+                        "Do not remove shoes, do not correct the position of the foot and immobilize with whatever is available.",
+                        "Remove your shoes and place your foot in the normal position.",
+                        "Remove shoes, do not correct the position of the foot and immobilize with whatever is available."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In case of venous bleeding:",
+                    "options": [
+                        "Simultaneously apply direct manual compression to both carotid arteries in order to reduce circulating blood pressure.",
+                        "Always apply indirect manual compression. For reasons of blood failure.",
+                        "Always apply direct manual compression if there are no stuck foreign bodies.",
+                        "Acting only in order to reassure the victim and wait for the arrival of adequate means of assistance, as giving assistance in the wrong way can be a major complication."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " After a very violent landing in the middle of rocks, the victim complains of abdominal pain, is pale, has cold sweats and is thirsty. We suspect:",
+                    "options": [
+                        "Internal bleeding in the abdomen and we should not give it water. Just moisten the lips.",
+                        "Head trauma and we should not give him water. Just moisten the lips.",
+                        "Acute appendicitis and we should not give it water. just moisten the lips",
+                        "Fracture of the transverse abdominal bone and we should not give it water. just moisten the lips"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " As for speeds:",
+                    "options": [
+                        "The minimum fall rate velocity must be used to exit the descendants.",
+                        "Minimum descent rate speed should be used to exit the risers.",
+                        "The best glide speed is used to cover the longest possible distance in glide.",
+                        "The best glide speed is the most used in high performance flights (competition)."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Generally speaking, for the optimization of in-flight speed, it is essential:",
+                    "options": [
+                        "In an ascendant fly slower.",
+                        "In an ascendant fly faster.",
+                        "On a descending fly slower.",
+                        "With a head wind, fly slower."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A very sharp increase in the angle of attack in half of the profile can cause:",
+                    "options": [
+                        "A front collapse.",
+                        "An asymmetrical collapse.",
+                        "An asymmetrical parachute.",
+                        "An asymmetric stall."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The boundary layer:",
+                    "options": [
+                        "In paragliding the boundary layer has a laminar flow.",
+                        "The air adheres to the object due to its viscosity.",
+                        "Paragliding is only turbulent near the point of stagnation.",
+                        "There is no boundary layer in paragliders."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Trimming:",
+                    "options": [
+                        "It is defined by the angle formed between the extremes of the leading edge and its center.",
+                        "It is the quotient between the maximum and minimum chord.",
+                        "It is defined by the mean of the radius of curvature.",
+                        "Establishes the inclination of the wing in relation to the horizon."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " ​​With a lower wing load, flight incidents:",
+                    "options": [
+                        "They are faster and more violent but more controllable.",
+                        "Are slower soft and smooth but more controllable.",
+                        "They are slower and smoother but less controllable.",
+                        "They are faster and more violent but less controllable."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Due to strong turbulence the left half of the wing advances strongly and violently. To correct the flight position, the pilot must:",
+                    "options": [
+                        "Pull both maneuverers symmetrically.",
+                        "Raise both maneuverers symmetrically.",
+                        "Pull the left maneuverer and raise the right one.",
+                        "Pull the right maneuverer and raise the left one."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Following a significant asymmetric closure, the pilot must:",
+                    "options": [
+                        "Cause a deep stall to more quickly recover the shape of the profile.",
+                        "Use the accelerator to give energy to the heading and recover better around.",
+                        "Be concerned about preventing the wing from rotating.",
+                        "Relieve maneuverers to prevent stall."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Following a big tie, the pilot may have to:",
+                    "options": [
+                        "Pull the handler on the side of the tie and lift the other.",
+                        "Pull the handler on the opposite side of the tie and lift the other.",
+                        "Pull the two maneuverers until causing a total loss to recover the shape of the profile.",
+                        "Raise both hands to allow the profile to regain its shape."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Flying close to full speed is very demanding and asks the pilot as much attention and anticipation as possible, because:",
+                    "options": [
+                        "The maneuverers have less action on the wing.",
+                        "The turns after collapses are very slow.",
+                        "The pendulous reactions of the wing are accentuated in all axes",
+                        "Decrease wing pendulous reactions in all axes."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "Exam Level2 2022",
+            "questions": [
+                {
+                    "question": "Civil aviation organizations:",
+                    "options": [
+                        "The International Civil Aviation Organization (ICAO) has its permanent headquarters in Switzerland.",
+                        "From the Chicago Convention, signed on December 7, 1944, emerged the (ICAO) International Civil Aviation Organization.",
+                        "The FPVL is the National Authority for light gliding (Paragliding and Hang-gliding) and auxiliary engine (Paramotor) aviation.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In Portugal, the sports regulator for Free Flying and Paramotor is:",
+                    "options": [
+                        "The Ministry of Transport.",
+                        "The National Civil Aviation Authority, IP",
+                        "The Portuguese Youth and Sports Institute, IP.",
+                        "The Portuguese Free Flight Federation (FPVL)."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The FPVL Regulation of Instruction is a technical document that:",
+                    "options": [
+                        "Only FPVL schools with a valid operating license can change it.",
+                        "Establishes the training structure for Free Flight and Paramotor pilots and instructors.",
+                        "Regulates the associative activity of FPVL.",
+                        "Regulates all FPVL's competitive and training activity."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "The Learning License:",
+                    "options": [
+                        "It is valid for one year and can be consecutively revalidated for five years.",
+                        "Allows the student to fly, only in the presence of a responsible instructor.",
+                        "It doesn’t require the association of a personal accident insurance.",
+                        "It can be issued from the age of 16 without authorization from the Tutor."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "The requirements to obtain a Pilot's License are:",
+                    "options": [
+                        "16 years and have been considered fit in the medical-sports evaluation.",
+                        "16 years, regardless of having been considered fit in the medical-sports evaluation.",
+                        "18 years old and have been considered fit in a medical-sports assessment exam.",
+                        "18 years old, regardless of having been considered fit in the medical-sports evaluation."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The revalidation of a pilot license requires:",
+                    "options": [
+                        "In the 12 months prior to the revalidation request, at least 5 flights in each of the classes or types registered in the license.",
+                        "In the 3 months prior to the revalidation request, at least 5 flights in each of the classes or types registered in the license.",
+                        "Have passed a flight test administered by a flight examiner in each of the relevant classes or types of aircraft, less than 3 months ago.",
+                        "Have passed a written theoretical exam less than 6 months ago."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The flight rules state that:",
+                    "options": [
+                        "When two Paraglider pilots are on a collision course, one must climb and the other descends.",
+                        "Non-engineered aircraft have priority over the others.",
+                        "A Paraglider doesn’t have priority over a Paramotor.",
+                        "A Paraglider has priority over a balloon."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Free flying is allowed",
+                    "options": [
+                        "Exclusively in controlled airspaces in direct and constant communication with air traffic management.",
+                        "Exclusively in uncontrolled airspaces in direct and constant communication with the air traffic management.",
+                        "Within clouds as long as you can see the GPS and there is direct and constant communication with air traffic management.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "There are 3 types of restricted areas that can be observed on aeronautical charts:",
+                    "options": [
+                        "Direct (D), Safeguarded (R) and Prohibited (P).",
+                        "Direct (D), Reserved (R) and Prohibited (P).",
+                        "Dangerous (D), Restricted (R) and Prohibited (P).",
+                        "Dangerous (D), Restricted (R) and Scheduled (P)."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Current Portuguese legislation:",
+                    "options": [
+                        "Prevents the practice of Free Flying in type G airspace.",
+                        "Establishes restricted areas for the practice of sports flying where no other aircraft can fly.",
+                        "It requires the pilot to have insurance with coverage for personal accidents and civil liability.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " As for the equipment:",
+                    "options": [
+                        "Cell is the portion of the wing comprised between two main internal profiles.",
+                        "The leading edge is the back of the wing when it is in flight.",
+                        "The stabilizer is the back of the wing when it is in flight.",
+                        "The stabilizer is the front of the wing when it is in flight."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Regarding the approval of equipment:",
+                    "options": [
+                        "They guarantee tests of structural resistance, longevity and durability of the material.",
+                        "Ensure structural and flight strength tests.",
+                        "Ensure flight tests and performance calculations in laminar wind conditions.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " As for measuring instruments:",
+                    "options": [
+                        "An altimeter works based on the variation in atmospheric temperature.",
+                        "An anemometer measures wind speed.",
+                        "A variometer works based on the variation in wind speed.",
+                        "A well-tuned wind sleeve always points north."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When reviewing the parachute, the ideal will be:",
+                    "options": [
+                        "Clean the cords and fabric with cold water and leave it in the sun until all moisture is removed.",
+                        "Iron each pleat well, whenever possible, with a cold iron.",
+                        "Put magnesium powder on the cords to reduce moisture and frictional tension.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Still regarding the equipment:",
+                    "options": [
+                        "The extrados is the underside of the wing when it is in flight.",
+                        "The trailing edge is the back of the wing when it is in flight.",
+                        "The stabilizer is the front of the wing when it is in flight.",
+                        "Elevators join chair carabiners to tissue."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Hyperventilation phenomena at altitude:",
+                    "options": [
+                        "They originate from the greatest amount of oxygen available in these places.",
+                        "They are characterized by calm and deep breathing.",
+                        "May cause dizziness, vertigo, chest pain and/or fainting.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " At a take-off at 1.000 meters of altitude:",
+                    "options": [
+                        "Headaches and disorientation can not be a symptom of hypoxia.",
+                        "Nausea and vomiting can be symptoms of hypoxia.",
+                        "Uncoordinated movements can be symptoms of hypoxia.",
+                        "Vomiting can be symptoms of hypoxia."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Valsalva manoeuvre should be used",
+                    "options": [
+                        "With increasing altitude/ decreasing atmospheric pressure.",
+                        "With decreasing altitude/increasing atmospheric pressure.",
+                        "Only used in underwater diving activities.",
+                        "When flying, never. There is no known effect of varying altitude/atmospheric pressure on the ears and sinuses."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When taking off, the pilot must pay attention to:",
+                    "options": [
+                        "Always inflate as quickly as possible.",
+                        "Running, trying to jump to compensate for consecutive lack of wing pressure.",
+                        "To other pilots who may be flying in the take off area.",
+                        "The successive starts and stops necessary to compensate for the wing speed."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " For safety, in the practice of Free Flying it is recommended:",
+                    "options": [
+                        "Do not give importance to the psychological state; having flying panic is a natural thing for human beings.",
+                        "Taking off because of the need to show it to other people when you are not sure if you want to do it.",
+                        "Do not ignore warnings from more experienced pilots.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The wind",
+                    "options": [
+                        "Terrain roughness and obstacles cannot affect wind direction and speed.",
+                        "The Coriolis Effect only influences local winds (breeze).",
+                        "Temperature differences do not influence the wind.",
+                        "Wind intensity could be conditioned by terrain factors."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The air moves because...",
+                    "options": [
+                        "... the atmosphere is constantly trying to equalize the pressure and humidity differences caused by the different warming of the regions.",
+                        "... the earth is in constant motion (Rotation and translation).",
+                        "... the atmosphere constantly tries to equalize the pressure and temperature differences caused by the different warming of the regions.",
+                        "... there is the force of Coriolis."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Pressure system",
+                    "options": [
+                        "Pressure is lowest in the centre of the anticyclone.",
+                        "Pressure is highest in the centre of the cyclone.",
+                        "Pressure is lowest in the centre of the cyclone.",
+                        "The pressure is equal at the centre of the cyclone and the anticyclone."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Isobars very close together indicates meteorological wind:",
+                    "options": [
+                        "Practically nil.",
+                        "Moderate.",
+                        "Strong.",
+                        "The proximity or distance of the isobars has no relation to the wind speed."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With regard to front surfaces:",
+                    "options": [
+                        "A front is a line that separates two air masses with different characteristics, mainly in terms of pressure and humidity.",
+                        "A front can be cold, hot or occluded.",
+                        "A frontal system is always associated with a strong north wind.",
+                        "When passing a hot front we always have a north wind, sun and blue sky."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The occlusion of the frontal system:",
+                    "options": [
+                        "It is a unique meteorological phenomenon and very unlikely to happen.",
+                        "It occurs when the cold front reaches the hot front.",
+                        "It occurs when the hot front slows down, even being able to park.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Valley and mountain breezes:",
+                    "options": [
+                        "Hillside breezes originate from the equal heating of the plain relative to the slope.",
+                        "To feed the hillside breeze, air is sucked from the valleys into the mountains.",
+                        "When the mountains are part of a mountain range, it is not possible to create a system of breezes with air sucked in from the nearby plains, as these are just breezes.",
+                        "None of the above"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Vertical air movements:",
+                    "options": [
+                        "They originate from the differentiated heating of the land.",
+                        "They are always very smooth and stable.",
+                        "They originate from the equal heating of the land.",
+                        "They always make it impossible to Paragliding fligth."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Cumuloninbus are:",
+                    "options": [
+                        "Convection clouds with a shiny top that can reach over 10.000m in altitude.",
+                        "Thick grey and shapeless.",
+                        "It has a greyish-white appearance in which the sky appears to be covered with sheep.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In your classification regarding altitude, the following are considered low clouds:",
+                    "options": [
+                        "Cumulonimbus, Nimbostrata and Strata.",
+                        "Altostratos, altocumulos.",
+                        "Cirrus, cirrostratus and cirrocumulus;",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " \"Ears\" are used in paragliding and are defined as a manoeuvre:",
+                    "options": [
+                        "Emergency that allows stabilizing the rise in thermal.",
+                        "That decreases the surface of the wing and increases the vertical speed.",
+                        "Which stabilizes the wing by increasing the relation between its surface and the weight.",
+                        "Instability that should only be used by acrobatic pilots."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The take-off",
+                    "options": [
+                        "“Reverse” technique should be the preferred technique in light wind situations.",
+                        "“Alpine” technique should be the preferred technique when there is light wind.",
+                        "The race must be done with the trunk straight and the eyes directed towards the wing.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Wingover is an acrobatic manoeuvre...",
+                    "options": [
+                        "... too radical. Not to be used.",
+                        "... to be used only by competition riders.",
+                        "... whose learning must be done progressively.",
+                        "... used to climb faster."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the study of the velocities of a given profile, a polar velocity is established in the relationship between:",
+                    "options": [
+                        "The maximum speed and rate of climb.",
+                        "Horizontal speed and rate of climb.",
+                        "Horizontal and vertical speed.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On approach to landing.",
+                    "options": [
+                        "Paragliders are not required to perform the aeronautical approach.",
+                        "The L approach technique is the one that allows for a better terrain reconnaissance.",
+                        "In strong wind conditions, with the U-shaped approach it is impossible to miss the landing site.",
+                        "The technique in O should not be used when the wind is zero."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A stall:",
+                    "options": [
+                        "It is a sign that the pilot was using the speed bar. He must withdraw.",
+                        "It is the moment when the pilot must immediately lower both hands to recover the wing.",
+                        "It is a sign that the wing has reached a speed below its minimum flight speed",
+                        "It is the moment when the pilot must immediately open the parachute."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " If a victim is found to have a deformity in the arm resulting from a fracture, he must:",
+                    "options": [
+                        "Immobilize the arm, as it is, prevent the state of shock or control it, if any, and arrange for the victim to be transported to a hospital emergency.",
+                        "Immobilize the arm as it appears and give it an object for the hand to keep squeezing in order to maintain blood circulation. Take the victim to the nearest hospital.",
+                        "Stretch the arm, putting the bone in its proper place and then immobilize and transport the victim to a hospital emergency",
+                        "Squeeze the deformed area tightly with a bandage, immobilize the victim on a stretcher and take him to the hospital."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A pilot who upon landing suffers trauma to a foot whose position is different from normal, a fracture should be suspected. Proceed as follows:",
+                    "options": [
+                        "Remove the shoes and place the foot in the natural position for the pilot to have less pain.",
+                        "Remove the shoes, and immobilize the foot in the position it is in.",
+                        "Do not remove shoes and immobilize the foot in the position it is in.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In case of bleeding:",
+                    "options": [
+                        "Never apply indirect manual compression.",
+                        "Always apply, simultaneously with any other action, direct manual compression on both carotid arteries in order to reduce the circulating blood pressure.",
+                        "Apply direct manual compression if the site does not have any ingrown foreign bodies.",
+                        "Act to reassure the victim and wait for the arrival of adequate means of assistance. Getting help in the wrong way can be a big complication."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " After a very violent landing in the middle of rocks, the victim complains of abdominal pain, is pale, has cold sweats and is thirsty. We suspect:",
+                    "options": [
+                        "Head trauma and we should not give him water. Just moisten the lips.",
+                        "Acute appendicitis and we should not give it water. Just moisten the lips",
+                        "Abdominal bone fracture and we should not give it water. Just moisten the lips",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The principle of lift has as a reference, with regard to its most common explanation, the flow of air in the soffit relative to the extrados, being:",
+                    "options": [
+                        "The highest speed on the lower surface and the lowest on the upper surface",
+                        "The highest velocity in the upper surface and the lowest in the lower surface.",
+                        "The same speed in the upper surface and in the lower surface.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Aerodynamic performance:",
+                    "options": [
+                        "When several types of resistance are combined, they create an even greater resistance, that of pressure.",
+                        "Interference resistance is produced by lift.",
+                        "The induced resistance is due to the viscosity of the air.",
+                        "Everything that does not create lift creates resistance."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " The RFA is the sum of the forces:",
+                    "options": [
+                        "Weight and strength.",
+                        "Lift and weight.",
+                        "Lift and Resistance.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The boundary layer:",
+                    "options": [
+                        "In Paragliding, the boundary layer always has a laminar flow.",
+                        "In Paragliding it is turbulent, but only near the stagnation point.",
+                        "Air adheres to the object due to its viscosity.",
+                        "In paragliders there is no boundary layer."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "​​ On a wing defined as having a speed of 40 km/h (hands fully up), moving at 50 km/h, we can consider that:",
+                    "options": [
+                        "Moves with head wind in the order of 10 km/h.",
+                        "It moves with a side wind of around 10 km/h.",
+                        "If there is no wind from behind, it is because the pilot is using the speed bar.",
+                        "If there is no wind from behind, it is because the pilot is using the breaks."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The maximum angle of attack corresponds to:",
+                    "options": [
+                        "The maximum glide.",
+                        "The minimum drop rate.",
+                        "The maximum speed.",
+                        "The minimum speed."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " When making a turn that is too slow, the wing can easily get into:",
+                    "options": [
+                        "Sustained stall.",
+                        "Asymmetric stall.",
+                        "Dynamic stall.",
+                        "Parachuting."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The definition of wing load translates to:",
+                    "options": [
+                        "In the relationship between the weight of the wing and its surface.",
+                        "The relation between the total weight in flight and the surface of the wing.",
+                        "The relationship between the weight of the flight equipment and the surface of the wing.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In aerodynamic terms:",
+                    "options": [
+                        "Decreasing the angle of attack decreases the wing speed.",
+                        "Increasing angle of attack increases the wing speed.",
+                        "Decreasing the angle of attack increases the wing speed.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The pitch must be well controlled as it may cause:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Full stall.",
+                        "Front collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "Exam Level2 2023",
+            "questions": [
+                {
+                    "question": "The institution responsible for regulating the non-military aviation in Portugal is:",
+                    "options": [
+                        "The State Agency for Infrastructure, Transport and Communications.",
+                        " National Authority for Civil Aviation.",
+                        "Institute for Mobility and Transport.",
+                        "Portuguese Free Flight Federation."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In Portugal, the sport organism responsible for regulating the free flight is:",
+                    "options": [
+                        "State Agency for the Infrastructure, Transports and Communications.",
+                        "Portuguese Institute of Sport and Youth.",
+                        "National Authority for Civil Aviation.",
+                        "Portuguese Free Flight Federation."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The Instruction and Degree Regulations of the FPVL is a technical document that:",
+                    "options": [
+                        "It can be changed only by the schools with a valid working permission.",
+                        "Establishes 5 levels of free flight pilot.",
+                        "Regulates the instruction, titles and training of free flight pilots and instructors.",
+                        "Regulates all the FPVL activity concerning competition and training."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The revalidation of the pilot license obliges to the demonstration that the pilot as done:",
+                    "options": [
+                        "In the 12 months before the revalidation request at least 200 flights in every class or type of aircraft registered in the license.",
+                        "In the 5 months before the revalidation request at least 5 flights in every class or type of aircraft registered in the license.",
+                        "In the 12 months before the revalidation request at least 5 flights in every class or type of aircraft registered in the license.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The requirements to obtain the Free Flight License are:",
+                    "options": [
+                        "16 years and finishing the compulsory education.",
+                        "16 years regardless of finishing the compulsory education.",
+                        "18 years and finishing the compulsory education.",
+                        "18 years regardless of finishing the compulsory education."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The flight rules establish that, in open air, when two pilots are in collision route:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The flight rules establish that when flying close to a ridge if two pilots are in a collision course:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "It is allowed to practice Free Flight",
+                    "options": [
+                        "In non-controlled airspace with NOTAM.",
+                        "Inside the clouds only when we can see the GPS.",
+                        "In controlled airspace only during competition and with communication with Air Traffic Control.",
+                        "In military areas, flying below 300 meters."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Restricted areas are zones in which:",
+                    "options": [
+                        "It is not allowed to fly.",
+                        "It is allowed to fly but there are potential dangers to the air navigation.",
+                        "It is allowed to fly with authorization from the air traffic control.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The current legislation:",
+                    "options": [
+                        "Obliges the revision of the wings every 6 months.",
+                        "Establishes areas where no other aircraft can fly.",
+                        "Obliges the paragliding pilots to fly VFR.",
+                        "Establishes that, with all the instruments we carry (GPS and vario), the competition pilots can fly IFR."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the equipment:",
+                    "options": [
+                        "The trailing edge is the front of the wing when it is in flight.",
+                        "Stabilizers are the anchor points of the wing to the hangers.",
+                        "Cell is the portion of the wing comprised between two main internal profiles.",
+                        "The extruder is the underside of the wing when it is in flight."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With regard to the type-approval of equipment, tests shall be carried out on:",
+                    "options": [
+                        "Structural and flight resistance.",
+                        "Structural strength, longevity and durability of the material.",
+                        "Flight to calculate the best performance.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Measuring instruments:",
+                    "options": [
+                        "An anemometer measures the accuracy of the wind.",
+                        "An altimeter works based on the atmospheric pressure variation.",
+                        "A variometer works based on the wind speed variation.",
+                        "A tuned wind sleeve always points north."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When falling with the parachute the arrival at the ground is violent. The pilot should:",
+                    "options": [
+                        "Run as fast as you can.",
+                        "Use the Roulé Boulé technique.",
+                        "Spread the legs and bend the knees and body.",
+                        "Put the legs together and look at the sky."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When doing the inspection of the emergency parachute one should:",
+                    "options": [
+                        "Leave it in the shade to air out during one day.",
+                        "Iron each wrinkle, preferably with a cool iron.",
+                        "Hang it in the sun for a few hours to eliminate all the moist.",
+                        "Spread some resin in the lines to reduce the friction."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " At a take-off at 3.800 meters:",
+                    "options": [
+                        "The necessary speed to take off is the same as taking off at sea level.",
+                        "Hypoxia symptoms are a factor to be aware.",
+                        "Due to the cold, the helmet should be substituted by a wool cap.",
+                        "The only possible way to take off is with reverse launch due to the wind gradient."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The potential risk of the paragliding activity is greatly raised with the use of:",
+                    "options": [
+                        "Energetic drinks.",
+                        "Orange juice.",
+                        "Natural juices.",
+                        "Alcohol and drugs."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " When a pilot has a severe inflammation of the hearing system and/or of the vestibular system he should:",
+                    "options": [
+                        "Fly low.",
+                        "Fly without restriction.",
+                        "Fly slowly.",
+                        "Fly in another day."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Capability to fly:",
+                    "options": [
+                        "Regardless the health condition of the pilot if he can fly he should not stay in the ground. Practice leads to perfection.",
+                        "When symptoms of illness or fatigue are present the decision to fly on another day is the best option.",
+                        "Even if the night rest was not enough the pilot should fly because the weather may not be good the next time.",
+                        "When a pilot is not in good physical conditions, he should make distance flights so he can practice and get more fit doing this."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If a pilot as done scuba diving, he should wait before flying:",
+                    "options": [
+                        "If he has done one single dive, 15 days.",
+                        "If he has done one single dive, 25 days.",
+                        "If he has done several dives or several days diving, 30 days.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Why does the air move?",
+                    "options": [
+                        "The atmosphere constantly tries to equalize the pressure and temperature differences caused by the differential heating of the regions.",
+                        "The atmosphere constantly tries to equalize the differences in pressure and humidity caused by the distinct humidity of the regions.",
+                        "The atmosphere constantly tries to equalize the differences in humidity and temperature caused by the distinct humidity of the regions.",
+                        "The atmosphere does not have any interference in this process."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In a system of high pressures the wind circulates:",
+                    "options": [
+                        "Clockwise direction if in the northern hemisphere.",
+                        "Clockwise direction if in the southern hemisphere.",
+                        "Clockwise direction in both hemispheres.",
+                        "Counter-clockwise direction in both hemispheres."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The leeward could be:",
+                    "options": [
+                        "The side where the dynamic flight is made.",
+                        "A dangerous place full of rotors.",
+                        "The part of the obstacle exposed to the wind.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The earth breeze is mainly due to:",
+                    "options": [
+                        "Overheating of the land relative to the sea.",
+                        "Differential heating of land and sea.",
+                        "Warming of land and sea.",
+                        "It has no relation to the warming of land and sea."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Sea breezes, usually:",
+                    "options": [
+                        "It blows during the afternoon on the east coast of mainland Portugal.",
+                        "It blows during the night and morning on the west coast of mainland Portugal.",
+                        "It blows during the afternoon on the west coast of mainland Portugal.",
+                        "It is dry and turbulent."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The vertical movements of the air:",
+                    "options": [
+                        "They have origin from the uniform heating of the earth's surface.",
+                        "They are always very smooth and stable.",
+                        "They may prevent safe flight practice.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " It's high clouds:",
+                    "options": [
+                        "Cumulonimbus Cumulus, Nimbostratus and Stratus.",
+                        "Cirrus, cirrostratus and cirrocumulus.",
+                        "Altostratus, Altocumulus and Stratocumulus.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Cirrus clouds are:",
+                    "options": [
+                        "White convection and fibrous appearance.",
+                        "High, white, translucent, formed by ice crystals.",
+                        "Greyish thick and without definite shape.",
+                        "Greyish looking, making the sky appear to be covered with large sheep."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " For frontal surfaces:",
+                    "options": [
+                        "A frontal system is always associated with strong north wind.",
+                        "When passing a cold front, we always have sun and blue sky.",
+                        "A front is a line separating two air masses of different characteristics, mainly in temperature and humidity.",
+                        "A front may be fresh, hot or a little warm."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Frontal systems are associated with:",
+                    "options": [
+                        "Low pressure systems.",
+                        "Depressive valleys.",
+                        "High pressure systems.",
+                        "Barometric marshes."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Before flying, the pilot must:",
+                    "options": [
+                        "Plan your flight with a high precision chart.",
+                        "Wash the chair and clean all equipment.",
+                        "Plan your flight and check the NOTAM to see if there is any aerial activity planned for the take-off location and the trajectory.",
+                        "Call the FPVL to request a NOTAM."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Ears (wing surface decrease) are used in paragliding for:",
+                    "options": [
+                        "Reduce the rate of fall.",
+                        "Increase the rate of fall.",
+                        "Maintain the rate of fall.",
+                        "It is an instability manoeuvre that should only be used by very experienced pilots."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " To fly around without any external influence, a paraglider tends to:",
+                    "options": [
+                        "Go up.",
+                        "Maintain altitude.",
+                        "Descend.",
+                        "Close."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the study of velocities of a given profile, a velocity polar is established in the relation between:",
+                    "options": [
+                        "The maximum velocity and the rate of ascent.",
+                        "The horizontal velocity and the rate of ascent.",
+                        "The vertical velocity and the rate of fall.",
+                        "The vertical velocity and the horizontal velocity."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Turbulence track are air disturbances left:",
+                    "options": [
+                        "Only by large aircraft.",
+                        "Only by motor aircraft.",
+                        "Only by non-powered aircraft.",
+                        "By any aircraft in flight."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " In the event of an accident in a very windy place",
+                    "options": [
+                        "Control of the wing should be a concern.",
+                        "The thermal protection of the victim is irrelevant.",
+                        "First of all, you should remove the victim of the chair/ harness and protect it from the wind.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In case of bleeding caused by a stick in the leg:",
+                    "options": [
+                        "Apply heart massage.",
+                        "Not acting, awaiting the arrival of adequate means of assistance;",
+                        "Apply indirect manual compression at the femoral artery.",
+                        "Apply direct manual compression at the site of bleeding."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " After a violent landing in the middle of cliffs, the victim complains of headaches, appears confused, drowsy and vomits. We suspect:",
+                    "options": [
+                        "Internal bleeding.",
+                        "Fracture.",
+                        "Cranial trauma.",
+                        "Hypothermia."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In an accident:",
+                    "options": [
+                        "The most important is to call a person that the victim knows.",
+                        "The most important is to cry really high for help.",
+                        "The cardiac arrest is a situation of primary help.",
+                        "To keep the victim immobilized is not relevant."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a primary survey to the victim the most important is:",
+                    "options": [
+                        "To know the name and phone number of the victims contact.",
+                        "Don’t act if you’re not a licensed rescuer.",
+                        "To move away the danger from the victim, avoiding more accidents.",
+                        "Protect the victim’s property."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The principle of support has as reference, regarding its more usual explanation, the flow of air in the upper surface relative to the lower surface, being:",
+                    "options": [
+                        "The lowest velocity in the lower surface is higher in the upper surface.",
+                        "Same velocity in the lower surface and the upper surface.",
+                        "The lowest velocity in the upper surface is higher in the lower surface.",
+                        "In this explanation, there is no relation between the velocity of the air in the upper surface and that of the lower surface."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " The RFA is the sum of the forces:",
+                    "options": [
+                        "Weight and resistance.",
+                        "Sustainability and Resistance.",
+                        "Support and weight.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " When in motion, a paraglider is subject to resistances:",
+                    "options": [
+                        "Pressure and friction.",
+                        "Pressure. Only when above 28Km / h.",
+                        "Friction. Only when above 28Km / h.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A paraglider may stall if the pilot:",
+                    "options": [
+                        "Decrease its speed below the maximum speed of flight.",
+                        "Decreases its speed below the minimum speed of flight.",
+                        "It increases its speed above the maximum speed of flight.",
+                        "It increases its speed above the minimum speed of flight."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Regarding the paraglider and wing loading of a profile:",
+                    "options": [
+                        "The best glide is not altered by the wing loading.",
+                        "The best glide is obtained with a lower wing loading.",
+                        "The best glide is obtained with a higher wing loading.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Aerodynamic:",
+                    "options": [
+                        "The speed decreases when the angle of attack decreases.",
+                        "The speed increases when the angle of attack increases.",
+                        "The speed increases when the angle of attack decreases.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a wing with speed, hands on top or neutral bar, of 40 km/h that moves at 45 km/h, we can consider that:",
+                    "options": [
+                        "It moves with wind front in the order of 5 km/h.",
+                        "It moves with wind from the back in the order of 5 km / h.",
+                        "It moves in a descending one with a speed of rise in the order of the 5m/s.",
+                        "It moves in an ascending one with a speed of rise in the order of the 5m/s."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " After an asymmetric collapse a pilot should:",
+                    "options": [
+                        "Make a full stall to recover from the collapse.",
+                        "Use the speed system to control the pitch.",
+                        "Prevent the wing from turning.",
+                        "Raise both hands to allow the wing to recover from the collapse faster."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The pitch movement happens on the axis:",
+                    "options": [
+                        "Vertical and it should be stopped with a symmetrical action on the brakes.",
+                        "Transversal and it should be stopped with a symmetrical action on the brakes.",
+                        "Longitudinal and it should be stopped with a symmetrical action on the brakes.",
+                        "The free flight aircrafts don´t make pitch movements."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The pitch should be controlled because it may cause:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Total stall.",
+                        "Frontal collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        }
+    ]
+}
