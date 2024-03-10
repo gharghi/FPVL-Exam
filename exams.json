@@ -1,0 +1,15 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "flag": "🇬🇧",
+      "types": [
+        {
+          "type": "FPVL Exam Level2",
+          "dataPath": "exams/en/FPVL Exam Level2/data.json"
+        }
+      ]
+    }
+  ]
+}

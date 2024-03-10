@@ -1,6 +1,5 @@
 /venv/
 /results.json
-/exams/
+/raw_exams/
 .idea
 .DS_Store
-
