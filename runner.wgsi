@@ -1,15 +1,25 @@
 # runner.wsgi
 
 import sys
+
+# Add your application's directory to the Python path
 sys.path.insert(0, '/home/behroozitest/voar')
 
 from bot import main
 
 def application(environ, start_response):
+    # This is the WSGI callable
     status = '200 OK'
-    headers = [('Content-type', 'text/plain')]
+    headers = [('Content-Type', 'text/plain')]
     start_response(status, headers)
 
-    response_body = main()
+    # Call the main function from your bot.py script
+    response = main()
 
-    return [response_body.encode('utf-8')]
+    # Make sure the response body is a bytes-like object
+    if isinstance(response, str):
+        response_bytes = response.encode('utf-8')
+    else:
+        response_bytes = response
+
+    return [response_bytes]
