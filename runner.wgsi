@@ -1,9 +1,9 @@
-# runner.wsgi
-
+import os
 import sys
 
+# Assuming your bot.py and this passenger.wsgi are in the same directory
 # Add your application's directory to the Python path
-sys.path.insert(0, '/home/behroozitest/voar')
+sys.path.insert(0, os.path.dirname(__file__))
 
 from bot import main
 
