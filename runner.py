@@ -2,7 +2,7 @@
 
 from bot import main
 
-def application(environ, start_response):
+def application(start_response):
     status = '200 OK'
     headers = [('Content-type', 'text/plain')]  # HTTP Headers
     start_response(status, headers)
