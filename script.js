@@ -39,47 +39,62 @@ document.addEventListener('DOMContentLoaded', () => {
             button.onclick = () => {
                 localStorage.setItem('selectedType', type.type);
                 localStorage.setItem('dataPath', type.dataPath); // Save the path to load the correct exams
-                window.location.href = 'exam.html'; // Navigate to the exam page
+                displayExams(type.dataPath);
             };
             typeListElement.appendChild(button);
         });
         typeListElement.style.display = 'block'; // Show type selection
     }
+
+    function displayExams(dataPath) {
+    fetch(dataPath)
+        .then(response => response.json())
+        .then(exams => {
+            const examListElement = document.getElementById('exam-list');
+            examListElement.innerHTML = ''; // Clear previous exams
+            exams.exams.forEach((exam, index) => { // Remove .exams here
+                const button = document.createElement('button');
+                button.innerText = `${exam.name}`;
+                button.onclick = () => {
+                    loadExam(exam);
+                };
+                examListElement.appendChild(button);
+            });
+        })
+        .catch(error => console.error('Error loading exams:', error));
+}
+
 });
 
 if (window.location.pathname.endsWith('exam.html')) {
-    const dataPath = localStorage.getItem('dataPath');
-    if (dataPath) {
-        loadExams(dataPath);
+    const selectedExam = localStorage.getItem('selectedExam');
+    if (selectedExam) {
+        displayQuestion();
     } else {
         console.error('Data path not found. Redirecting to index.');
         window.location.href = 'index.html';
     }
 }
 
-function loadExams(dataPath) {
-    fetch(dataPath)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Failed to load exam data');
-            }
-            return response.json();
-        })
-        .then(data => {
-            if (!data || !data.exams || !Array.isArray(data.exams) || data.exams.length === 0) {
-                throw new Error('Invalid exam data format');
-            }
-            // Assuming you only have one exam in the file
-            currentExamQuestions = data.exams[0].questions;
-            displayQuestion();
-        })
-        .catch(error => console.error('Error loading exams:', error));
+function loadExam(selectedExam) {
+    localStorage.setItem('selectedExam', JSON.stringify(selectedExam));
+    window.location.href = 'exam.html'; // Navigate to the exam page
 }
 
 function displayQuestion() {
+    const selectedExam = JSON.parse(localStorage.getItem('selectedExam'));
+
+    if (!selectedExam || !selectedExam.questions || !Array.isArray(selectedExam.questions) || selectedExam.questions.length === 0) {
+        console.error('Invalid or missing selected exam data.');
+        return;
+    }
+
+    // Set the currentExamQuestions to the questions from the selected exam
+    currentExamQuestions = selectedExam.questions;
     if (currentQuestionIndex < currentExamQuestions.length) {
         const question = currentExamQuestions[currentQuestionIndex];
-        document.getElementById('question').innerText = question.question;
+        const questionText = `${currentQuestionIndex + 1}. ${question.question}`;
+        document.getElementById('question').innerText = questionText;
         const optionsContainer = document.getElementById('options');
         optionsContainer.innerHTML = '';
         question.options.forEach((option, index) => {
