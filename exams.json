@@ -10,6 +10,21 @@
           "dataPath": "exams/en/FPVL Exam Level2/data.json"
         }
       ]
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "flag": "🇵🇹",
+      "types": [
+        {
+          "type": "FPVL Exame Nível1",
+          "dataPath": "exams/pt/FPVL Exame Nível1/data.json"
+        },
+        {
+          "type": "FPVL Exame Nível2",
+          "dataPath": "exams/pt/FPVL Exame Nível2/data.json"
+        }
+      ]
     }
   ]
 }

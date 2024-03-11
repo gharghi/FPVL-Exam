@@ -1,0 +1,2014 @@
+{
+    "exams": [
+        {
+            "name": "FPVL Exam 2018",
+            "questions": [
+                {
+                    "question": "Organizações da aviação civil:",
+                    "options": [
+                        "A Organização da Aviação Civil Internacional (ICAO) tem a sua sede na Suíça.",
+                        "Da Convenção de Chicago, assinada em dezembro de 1944, surgiu a Agencia Europeia para a Segurança da Aviação.",
+                        "Em Portugal, a autoridade para a Aviação Civil é a ANAC.",
+                        "A FPVL é a Autoridade Nacional para a aviação com aeronaves de planeio em Portugal."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Em Portugal, a entidade reguladora desportiva do Voo Livre e Paramotor, é:",
+                    "options": [
+                        "A Secretaria de Estado da Juventude e Desporto.",
+                        "O Instituto Português da Juventude e Desporto.",
+                        "O Aeroclube de Portugal.",
+                        "A Federação Portuguesa de Voo Livre."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "O Regulamento de Instrução e Titulações da FPVL é um documento técnico que:",
+                    "options": [
+                        "Só é possível de ser alterado pelas escolas com licença de funcionamento válida.",
+                        "Estabelece 2 níveis de piloto de Voo Livre.",
+                        "Regulamenta a atividade competitiva da FPVL.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "A Licença de Aprendizagem",
+                    "options": [
+                        "Pode ser emitida a partir dos 14 anos com autorização do Encarregado de Educação.",
+                        "Não tem limites à sua revalidação.",
+                        "Permite efetuar voos na ausência do Instrutor responsável.",
+                        "Obriga à associação de um seguro de acidentes pessoais."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "São requisitos para obter a Licença de Pilotagem:",
+                    "options": [
+                        "18 anos e ter completado a escolaridade mínima obrigatória.",
+                        "18 anos independentemente de ter completado a escolaridade mínima obrigatória.",
+                        "16 anos e ter completado a escolaridade mínima obrigatória.",
+                        "16 anos independentemente de ter completado a escolaridade mínima obrigatória."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "A renovação de licenças de piloto obriga à demonstração deste ter efetuado:",
+                    "options": [
+                        "Nos 12 meses anteriores ao pedido de revalidação, pelo menos 5 voos em cada uma das classes ou tipos averbadas na licença.",
+                        "Nos 3 meses anteriores ao pedido de revalidação, pelo menos 5 voos em cada uma das classes ou tipos averbadas na licença.",
+                        "E superado uma prova de voo administrada por um examinador de voo em cada uma das classes ou tipos de aeronave pertinentes.",
+                        "E superado uma prova teórica administrada por um examinador de voo."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "As regras de voo estabelecem que em voo em espaço aberto, quando dois pilotos se encontram em rota de colisão, devem:",
+                    "options": [
+                        "Um subir e o outro descer.",
+                        "Virar cada um à direita.",
+                        "Virar cada um à esquerda.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "É permitida a prática do Voo Livre",
+                    "options": [
+                        "Dentro de nuvens, enquanto se consiga ver o GPS.",
+                        "Só em espaços aéreos controlados em comunicação direta e constante com a gestão de tráfego aéreo.",
+                        "Só em espaços aéreos não controlados.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Áreas proibidas podem estar associadas à defesa de um estado, pelo que são zonas em que:",
+                    "options": [
+                        "Por questões de possibilitar a identificação da aeronave é apenas permitido voar abaixo dos 5.000 pés (cerca de 1.500 metros).",
+                        "É permitido voar  quando é expressamente autorizado.",
+                        "É permitido voar mas existem perigos potenciais para a navegação aérea, pelo que fica ao critério do piloto/comandante a sua utilização.",
+                        "Não é permitido voar em qualquer circunstância."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A actual legislação:",
+                    "options": [
+                        "Obriga-nos a fazer a revisão dos equipamentos de 6 em 6 meses.",
+                        "Estabelece locais de prática do voo desportivo onde mais nenhuma aeronave pode voar.",
+                        "Estabelece que, face aos equipamentos de localização transportados (GPS e variómetro), os pilotos de competição se regem por IFR.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Quanto ao equipamento:",
+                    "options": [
+                        "O estabilizador é a parte de trás da asa quando ela está em voo.",
+                        "O extradorso é a parte de baixo da asa quando ela está em voo.",
+                        "As nervuras unem o extradorso ao intradorso.",
+                        "Os suspensão é o elemento que une o piloto à cadeira."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A velocidade de perda é aquela em que a asa",
+                    "options": [
+                        "Tem mais capacidade para subir.",
+                        "Deixa de voar.",
+                        "Consegue rodar melhor.",
+                        "Já não pode se consegue segurar."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Quanto a instrumentos de medida:",
+                    "options": [
+                        "Um altímetro mede a distância às nuvens.",
+                        "Um anemómetro funciona com base na intensidade do vento.",
+                        "Um variómetro funciona com base na variação da velocidade do vento.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " O sistema anti-esquecimento da cadeira de voo",
+                    "options": [
+                        "Faz parte das tiras das pernas quando elas são independentes;",
+                        "Faz parte da ligação aos elevadores;",
+                        "Compõe o sistema de segurança anti-choque.",
+                        "Compõem o sistema de cruzados ABS."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A aquisição de um asa por parte de um candidato a piloto deve ter em consideração",
+                    "options": [
+                        "As suas aspirações como futuro piloto de competição.",
+                        "O melhor preço do mercado para uma asa Categoria D.",
+                        "O aconselhamento do Instrutor que ministra a formação.",
+                        "Apenas a maior durabilidade do material de que é feita."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Fenómenos de hiperventilação em altitude:",
+                    "options": [
+                        "Podem ter origem na menor quantidade de oxigénio disponível.",
+                        "Caraterizam-se por uma respiração calma e profunda.",
+                        "Nunca provocam tontura, vertigem, dor de peito ou desmaio.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Numa descolagem a cerca de 3.000 metros de altitude:",
+                    "options": [
+                        "Dores de cabeça não pode ser um sintoma de hipóxia.",
+                        "Náuseas e vómitos não podem ser sintomas de hipóxia.",
+                        "Movimentos não coordenados podem ser sintomas de hipóxia.",
+                        "Desorientação não pode ser um sintoma de hipóxia."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Deve usar-se a manobra de valsalva",
+                    "options": [
+                        "Com a diminuição da altitude.",
+                        "Com a diminuição da pressão.",
+                        "Com o aumento da altitude da pressão.",
+                        "Nunca. Não há qualquer efeito da variação da altitude sobre os ouvidos e seios perinasais."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Perante sinais de ansiedade e medo,",
+                    "options": [
+                        "Não é preocupante, são coisas naturais para quem voa.",
+                        "Podem ter de se proceder a ajustes ao plano de voo ou mesmo anulá-lo.",
+                        "Não deve ser dada importância desde que não exista perigo de pânico.",
+                        "De imediato deve conduzir-se o piloto a uma emergência hospitalar."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " São recomendáveis à atividade do Voo Livre:",
+                    "options": [
+                        "Deixar-se influenciar a descolar por parte de outras pessoas.",
+                        "Ignorar advertências de pilotos mais experientes.",
+                        "Não voar sozinho.",
+                        "Ignorar o seu estado psicológico, pois ter medo de voar é natural."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " O vento tem origem...",
+                    "options": [
+                        "... no constante movimento da terra (Rotação e translação).",
+                        "... na força de Coriólis.",
+                        "... na tentativa da atmosfera em igualar as diferenças de pressão e temperatura causadas pelo aquecimento diferenciado das regiões.",
+                        "... em fenómenos de inércia."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " O vento",
+                    "options": [
+                        "A direção e intensidade do vento podem ser condicionadas pelo relevo.",
+                        "A viscosidade e a turbulência não afetam o vento.",
+                        "O Efeito de Coriólis só tem influência nos ventos locais (Brisas).",
+                        "A temperatura não influencia o vento."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Grande proximidade das isóbaras, indica:",
+                    "options": [
+                        "Vento praticamente nulo.",
+                        "Vento moderado.",
+                        "Vento forte.",
+                        "A proximidade ou afastamento das isóbaras não tem qualquer relação com a velocidade do vento."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Brisas de vale e de montanha:",
+                    "options": [
+                        "As brisas de encosta têm origem no igual aquecimento da planície relativamente à encosta.",
+                        "A intensidade e duração da brisa de encosta é diretamente proporcional ao seu tamanho.",
+                        "Para alimentar a brisa de encosta, o ar é aspirado da atmosfera para os vales.",
+                        "Quando as montanhas não fazem parte de uma cordilheira pode criar-se um grande sistema de brisas com ar aspirado a partir das planícies próximas."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A brisa de mar deve-se, sobretudo:",
+                    "options": [
+                        "Ao sobre-aquecimento da terra relativamente ao mar.",
+                        "Ao sobre-aquecimento do mar relativamente à terra.",
+                        "Ao igual aquecimento da terra e do mar.",
+                        "Não há relação entre o aquecimento da terra e do mar com a brisa de mar."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Os movimentos verticais do ar:",
+                    "options": [
+                        "Têm origem no arrefecimento diferenciado do mar relativamente à terra.",
+                        "São sempre muito suaves e estáveis.",
+                        "Podem ser muito instáveis e turbulentos.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Cirros são nuvens:",
+                    "options": [
+                        "Baixas sem estrutura, finas e uniformes.",
+                        "De aspecto branco acinzentado e sem base definida.",
+                        "Altas, brancas translúcidas e de aspeto fibroso mais ou menos compacto.",
+                        "Espessas cinzentas e sem forma."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Na sua classificação quanto à altitude, são nuvens médias:",
+                    "options": [
+                        "Cirros, cirrostratos e cirrocumulos;",
+                        "Cumulos Cumulonimbus, Nimboestratos e estratos.",
+                        "Altostratos, altocumulos.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Os sistemas frontais estão associados a:",
+                    "options": [
+                        "Sistemas de altas pressões.",
+                        "Vales depressionários.",
+                        "Sistemas de baixas pressões.",
+                        "Pântanos barométricos."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A oclusão do sistema frontal:",
+                    "options": [
+                        "Dá-se quando a frente quente alcança a frente fria.",
+                        "Dá-se quando a frente fria alcança a frente quente.",
+                        "Dá-se quando a frente fria abranda e logo para.",
+                        "É um fenómeno meteorológico único e muito improvável de acontecer."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A preparação e planeamento do voo",
+                    "options": [
+                        "Devido à imprevisibilidade das condições meteorológicas, o Voo Livre é uma atividade de improviso, qualquer preparação ou planeamento é dispensável.",
+                        "Está relacionada apenas com a organização logística do grupo que vai voar.",
+                        "Prevê, pelo menos, a consulta de NOTAM.",
+                        "É um tema teórico engraçado mas sem qualquer aplicabilidade prática para o Voo Livre."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A descolagem",
+                    "options": [
+                        "“Alpino” deve ser a técnica preferida quando há muito vento.",
+                        "“Reverso” deve ser a técnica preferida em situações de vento moderado.",
+                        "A corrida deve ser efetuada com saltos para corrigir as falhas de pressão na asa.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Espiral é uma manobra...",
+                    "options": [
+                        "... usada para subir com mais eficiência.",
+                        "... delicada, pelo que a sua aprendizagem deve ser feita de forma progressiva.",
+                        "... a ser usada somente por pilotos de competição.",
+                        "... radical. Não deve ser utilizada."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Relativamente ao estudo das velocidades de um determinado perfil, uma polar de velocidades é estabelecida na relação entre:",
+                    "options": [
+                        "A velocidade máxima e a taxa de subida.",
+                        "A velocidade vertical e a velocidade horizontal.",
+                        "A velocidade horizontal e a taxa de subida.",
+                        "A velocidade vertical e a taxa de queda."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Na aproximação à aterragem.",
+                    "options": [
+                        "Os parapentes são obrigados a cumprir a técnica PT (Padrão de Tráfego).",
+                        "A técnica de aproximação em L é a que permite fazer um melhor reconhecimento do terreno.",
+                        " O grau de pranchamento deve ser sempre superior a 90º para facilitar a descida.",
+                        "A técnica em O é a que melhor permite aperceber-se da direção e intensidade do vento."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Em caso de um grande fecho assimétrico involuntário o piloto deve:",
+                    "options": [
+                        "Apoiar a tendência natural de rotação da asa para o lado do fecho para perder energia.",
+                        "Contrariar a tendência natural de rotação da asa para o lado do fecho.",
+                        "Baixar os dois manobradores e levantar rapidamente.",
+                        "Não intervir e deixar a asa atuar naturalmente."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Em caso de acidente num local com vento",
+                    "options": [
+                        "O controlo da asa e preponderante.",
+                        "A proteção térmica do acidentado não é muito importante.",
+                        "Primeiro que tudo deve retirar-se o acidentado da cadeira/ arnês para não ser arrastado.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Um piloto que ao aterrar sofra um traumatismo num pé, cuja posição esteja diferente do normal, deve-se suspeitar de fratura. Deverá proceder-se da seguinte forma:",
+                    "options": [
+                        "Retirar o calçado e colocar o pé na posição habitual para o piloto ter menos dores.",
+                        "Não retirar o calçado, corrigir a posição do pé e imobilizar.",
+                        "Retirar o calçado, e imobilizar o pé na posição em que se encontra.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Em caso de hemorragia:",
+                    "options": [
+                        "Aplicar sempre, em simultâneo com qualquer outra ação, a compressão manual direta nas duas artérias carótidas de forma a diminuir a quantidade de sangue em circulação no corpo.",
+                        "Desde que possível, aplicar sempre compressão manual direta.",
+                        "Aplicar compressão manual direta caso apresente corpos estranhos encravados.",
+                        "Atuar apenas no sentido de tranquilizar a vitima e esperar a chegada de meios de socorro adequados."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Após uma aterragem violenta no meio de rochedos, a vítima queixa-se de dores abdominais, apresenta-se pálida, com suores frios e tem sede. Suspeitamos de:",
+                    "options": [
+                        "Hemorragia interna no abdómen e não devemos dar-lhe água.",
+                        "Traumatismo craniano e não devemos dar-lhe água.",
+                        "Gastroenterite aguda e não devemos dar-lhe água.",
+                        "Fratura do osso abdominal e não devemos dar-lhe água."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " O princípio da sustentação tem como referência, no que diz respeito à sua explicação mais usual, o escoamento do ar no intradorso relativamente ao extradorso, sendo:",
+                    "options": [
+                        "A velocidade mais baixa no extradorso e mais alta no intradorso.",
+                        "A mesma velocidade no extradorso e no intradorso.",
+                        "A velocidade mais alta no extradorso e mais baixa no intradorso",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Rendimento aerodinâmico:",
+                    "options": [
+                        "Quando vários tipos de resistência se combinam, criam uma resistência ainda maior, a de pressão.",
+                        "A resistência de interferência é produzida pela sustentação.",
+                        "A resistência induzida é devida à viscosidade do ar.",
+                        "Tudo o que não voa cria resistência parasita."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " À relação entre a superfície e a envergadura, chamamos:",
+                    "options": [
+                        "Curvatura",
+                        "Alongamento",
+                        "Ângulo de Diedro",
+                        "Estreitamento."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Um volta é, também, um movimento sobre o eixo:",
+                    "options": [
+                        "Vertical.",
+                        "Transversal.",
+                        "Longitudinal.",
+                        "Oblíquo."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A camada limite:",
+                    "options": [
+                        "No Parapente a camada limite tem um fluxo laminar.",
+                        "O ar adere ao objeto devido à sua viscosidade.",
+                        "No Parapente é turbulenta apenas junto ao ponto de estagnação.",
+                        "Nos parapentes não existe camada limite."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Uma asa cuja velocidade mãos em cima é de 45km/h, move-se a 25km/h. Assim, podemos considerar que:",
+                    "options": [
+                        "Se desloca numa ascendente com uma velocidade de subida na ordem dos 2,0m/s.",
+                        "Se desloca numa descendente com uma velocidade de descida na ordem dos 2,0m/s.",
+                        "Se desloca com vento de frente na ordem dos 20 km/h.",
+                        "Se desloca com vento de costas na ordem dos 20 km/h."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Ao fazer uma volta demasiado lenta a asa pode entrar facilmente em:",
+                    "options": [
+                        "Perda sustentada.",
+                        "Parachutagem.",
+                        "Perda assimétrica.",
+                        "Perda dinâmica."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A definição de carga alar traduz-se:",
+                    "options": [
+                        "Na relação entre o peso da asa e a sua superfície.",
+                        "Na relação entre o peso do equipamento de voo e a superfície da asa.",
+                        "Não tem qualquer relação entre peso e superfície.",
+                        "Na relação entre o peso total em voo e a superfície da asa."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Em termos aerodinâmicos:",
+                    "options": [
+                        "Aumentado o ângulo de ataque a velocidade aumenta.",
+                        "Aumentado o ângulo de ataque a velocidade diminui.",
+                        "Diminuindo o ângulo de ataque a velocidade diminui.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " O cabeceio deve ser controlado pois quando exagerado pode provocar:",
+                    "options": [
+                        "Perda assimétrica.",
+                        "Perda total.",
+                        "Fecho frontal.",
+                        "Fecho assimétrico."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "FPVL Exam 2019-1",
+            "questions": [
+                {
+                    "question": "Organizações da aviação civil:",
+                    "options": [
+                        "A Organização da Aviação Civil Internacional (ICAO) tem a sua sede na Suíça.",
+                        "Da Convenção de Chicago, assinada em 7 dezembro de 1944, surgiu a (AESA) Agencia Europeia para a Segurança da Aviação.",
+                        "A FPVL é a Autoridade Nacional para a aviação ligeira de planeio (Parapente e Asa Delta) e de motor auxiliar (Paramotor).",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Em Portugal, a entidade reguladora desportiva para o Voo Livre e Paramotor, é:",
+                    "options": [
+                        "O Ministério da Educação.",
+                        "A Secretaria de Estado da Juventude e Desporto.",
+                        "O Instituto Português da Juventude e Desporto.",
+                        "A Federação Portuguesa de Voo Livre."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "O Regulamento de Instrução e Titulações da FPVL é um documento técnico que:",
+                    "options": [
+                        "Só é possível de ser alterado pelas escolas da FPVL com licença de funcionamento válida.",
+                        "Estabelece toda a estrutura de formação de pilotos e instrutores de Voo Livre e Paramotor.",
+                        "Regulamenta a atividade associativa da FPVL.",
+                        "Só é possível de ser alterado pelas Assembleia Geral da FPVL."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "A Licença de Aprendizagem:",
+                    "options": [
+                        "Pode ser emitida a partir dos 14 anos com autorização do Encarregado de Educação.",
+                        "Há um número limitado de vezes em que é possível revalidá-la.",
+                        "Permite voar, independentemente da presença do instrutor responsável.",
+                        "Não obriga à associação de um seguro de acidentes pessoais."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "São requisitos mínimos para obter a Licença de Pilotagem:",
+                    "options": [
+                        "18 anos e ter completado a escolaridade mínima obrigatória.",
+                        "18 anos independentemente de ter completado a escolaridade mínima obrigatória.",
+                        "16 anos e ter completado a escolaridade mínima obrigatória.",
+                        "16 anos independentemente de ter completado a escolaridade mínima obrigatória."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "A renovação de uma licença de piloto que não está válida há 3 anos, obriga a:",
+                    "options": [
+                        "Nos 12 meses anteriores ao pedido de renovação, pelo menos 5 voos em cada uma das classes ou tipos averbadas na licença.",
+                        "Nos 3 meses anteriores ao pedido de renovação, pelo menos 5 voos em cada uma das classes ou tipos averbadas na licença.",
+                        "Ter superado uma prova de voo administrada por um examinador de voo em cada uma das classes ou tipos de aeronave pertinentes, há menos de 3 meses.",
+                        "Ter superado um exame teórico escrito há menos de 6 meses."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "As regras de voo estabelecem que:",
+                    "options": [
+                        "Quando dois pilotos de parapente se encontram em rota de colisão, um deve subir e o outro descer.",
+                        "As aeronaves sem motor têm prioridade sobre as restantes.",
+                        "Um Parapente tem prioridade relativamente a um balão.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "É permitida a prática do Voo Livre",
+                    "options": [
+                        "Só em espaços aéreos controlados em comunicação direta e constante com a gestão de tráfego aéreo.",
+                        "Só em espaços aéreos não controlados em comunicação direta e constante com a gestão de tráfego aéreo.",
+                        "Dentro de nuvens desde que ainda se consiga ver o GPS.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Áreas proibidas podem estar associadas à defesa de um estado, pelo que são zonas em que:",
+                    "options": [
+                        "Para possibilitar a identificação da aeronave é obrigatório voar abaixo dos 500 metros.",
+                        "Só é permitido voar se for expressamente autorizado.",
+                        "É permitido voar abaixo dos 500 metros, mas existem perigos potenciais para a navegação aérea, pelo que fica ao critério do piloto/comandante a sua utilização.",
+                        "Não é permitido voar em qualquer circunstância."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A actual legislação:",
+                    "options": [
+                        "Impede a prática do Voo Livre em espaço aéreo tipo G.",
+                        "Estabelece zonas restritas de prática do voo desportivo onde mais nenhuma aeronave pode voar.",
+                        "Obriga o piloto a possuir um seguro de acidentes pessoais e um de responsabilidade civil.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Quanto ao equipamento:",
+                    "options": [
+                        "O estabilizador é a parte de trás da asa quando ela está em voo.",
+                        "O extradorso é a parte de baixo da asa quando ela está em voo.",
+                        "As nervuras unem os bordos marginais ao bordo de ataque.",
+                        "Os suspensores é um dos elementos que une a asa à cadeira."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A velocidade mínima de voo de uma asa é aquela em que a asa:",
+                    "options": [
+                        "Tem mais capacidade para chegar mais rápido.",
+                        "Se encontra perto da velocidade de perda.",
+                        "Consegue rodar melhor.",
+                        "Já não se consegue segurar."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Quanto a instrumentos de medida:",
+                    "options": [
+                        "Um altímetro mede a altura das nuvens.",
+                        "Um variómetro funciona com base nas alterações da pressão atmosférica.",
+                        "Um anemómetro funciona com base na alterações da temperatura do vento.",
+                        "Um GPS é um instrumento de avaliação da pressão atmosférica."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " O sistema anti-esquecimento da cadeira de voo",
+                    "options": [
+                        "Faz parte da ligação da cadeira aos elevadores;",
+                        "Faz parte do sistema de aceleração da asa que se encontra na cadeira.",
+                        "Compõem os sistemas de cruzados ABS.",
+                        "Faz parte das tiras das pernas quando elas são independentes;"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A aquisição de um asa por parte de um candidato a piloto deve ter em consideração",
+                    "options": [
+                        "Elevadas performances no que respeita a planeio e velocidade.",
+                        "Apenas o melhor preço que se irá obter na sua venda posterior.",
+                        "O aconselhamento do instrutor com quem fez a formação.",
+                        "Apenas a maior durabilidade do material de que é feita."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Fenómenos de hiperventilação em altitude:",
+                    "options": [
+                        "Podem ter origem na maior quantidade de oxigénio disponível.",
+                        "Caraterizam-se por uma respiração calma e profunda.",
+                        "Podem provocar tontura, vertigem, dor de peito e/ou desmaio.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Numa descolagem a cerca de 1.000 metros de altitude:",
+                    "options": [
+                        "Dores de cabeça e desorientação podem ser um sintoma de hipóxia.",
+                        "Náuseas e vómitos não podem ser sintomas de hipóxia.",
+                        "Movimentos não coordenados podem ser sintomas de hipóxia.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Deve usar-se a manobra de valsalva",
+                    "options": [
+                        "Com a diminuição da altitude/ aumento da pressão atmosférica.",
+                        "Com o aumento de altitude/ diminuição da pressão atmosférica.",
+                        "Só em atividades de mergulho subaquático.",
+                        "Nunca. Não há qualquer efeito da variação da altitude/ pressão atmosférica sobre os ouvidos e seios perinasais."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Perante sinais de ansiedade e medo,",
+                    "options": [
+                        "Não é preocupante para o piloto, são coisas naturais para quem voa.",
+                        "O piloto pode ter de proceder a ajustes ao plano de voo ou mesmo anulá-lo.",
+                        "Não deve ser dada importância desde que não exista perigo de pânico.",
+                        "De imediato deve conduzir-se o piloto a uma emergência hospitalar."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " São recomendáveis à atividade do Voo Livre:",
+                    "options": [
+                        "Ignorar o seu estado psicológico, pois ter medo de voar é uma coisa natural para os humanos.",
+                        "Deixar-se influenciar a descolar por parte de outras pessoas.",
+                        "Não voar sozinho.",
+                        "Ignorar advertências de pilotos mais experientes."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " O vento tem origem...",
+                    "options": [
+                        "... na tentativa da atmosfera em igualar as diferenças de pressão e temperatura causadas pelo aquecimento diferenciado das regiões.",
+                        "... no constante movimento da terra (Rotação e translação).",
+                        "... na força de Coriólis.",
+                        "... em fenómenos de inércia."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " O vento",
+                    "options": [
+                        "A viscosidade e a turbulência não afetam o vento.",
+                        "O Efeito de Coriólis só tem influência nos ventos locais (Brisas).",
+                        "A temperatura não influencia o vento.",
+                        "A direção e intensidade do vento podem ser condicionadas pelo relevo."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Grande afastamento das isóbaras, indica:",
+                    "options": [
+                        "Vento praticamente nulo.",
+                        "Vento moderado.",
+                        "Vento forte.",
+                        "A proximidade ou afastamento das isóbaras não tem qualquer relação com a velocidade do vento."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Brisas de vale e de montanha:",
+                    "options": [
+                        "As brisas de encosta têm origem no igual aquecimento da planície relativamente à encosta.",
+                        "A intensidade e duração da brisa de encosta é inversamente proporcional ao seu tamanho.",
+                        "Para alimentar a brisa de encosta, o ar é aspirado da atmosfera para os vales.",
+                        "Quando as montanhas fazem parte de uma cordilheira pode criar-se um grande sistema de brisas com ar aspirado a partir das planícies próximas."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A brisa de terra deve-se, sobretudo:",
+                    "options": [
+                        "Ao sobre-aquecimento da terra relativamente ao mar.",
+                        "Ao sobre-aquecimento do mar relativamente à terra.",
+                        "Ao igual aquecimento da terra e do mar.",
+                        "Não há relação entre o aquecimento da terra e do mar com a brisa de mar."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Os movimentos verticais do ar:",
+                    "options": [
+                        "Têm origem no arrefecimento diferenciado do mar relativamente à terra.",
+                        "São sempre muito suaves e estáveis.",
+                        "Podem ser muito instáveis e turbulentos.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Nimboestratos são nuvens:",
+                    "options": [
+                        "Baixas sem estrutura, finas e uniformes.",
+                        "De aspecto branco acinzentado e sem base definida.",
+                        "Altas, brancas translúcidas e de aspeto fibroso mais ou menos compacto.",
+                        "Espessas cinzentas e sem forma."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Na sua classificação quanto à altitude, são consideradas nuvens baixas:",
+                    "options": [
+                        "Cirros, cirrostratos e cirrocumulos;",
+                        "Cumulos Cumulonimbus, Nimboestratos e estratos.",
+                        "Altostratos, altocumulos.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Os sistemas frontais estão associados a:",
+                    "options": [
+                        "Sistemas de baixas pressões.",
+                        "Vales depressionários.",
+                        "Sistemas de altas pressões.",
+                        "Pântanos barométricos."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A oclusão do sistema frontal:",
+                    "options": [
+                        "Dá-se quando a frente quente alcança a frente fria.",
+                        "Dá-se quando a frente fria abranda e logo para.",
+                        "Dá-se quando a frente fria alcança a frente quente.",
+                        "É um fenómeno meteorológico único e muito improvável de acontecer."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A preparação e planeamento do voo.",
+                    "options": [
+                        "Prevê a necessidade de consulta dos NOTAM em vigor.",
+                        "Devido à imprevisibilidade das condições meteorológicas, o Voo Livre é uma atividade de improviso, qualquer preparação ou planeamento é dispensável.",
+                        "Devido ao tipo de voo, só deve ter em conta a organização logística do grupo que vai voar.",
+                        "É um tema teórico engraçado mas sem qualquer aplicabilidade prática para o Voo Livre."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A descolagem",
+                    "options": [
+                        "“Alpino” deve ser a técnica preferida quando há muito vento.",
+                        "“Reverso” deve ser a técnica preferida em situações de vento fraco.",
+                        "A corrida deve ser efetuada aos saltos para corrigir as falhas de pressão na asa.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Espiral é uma manobra...",
+                    "options": [
+                        "... muito radical. Não deve ser utilizada.",
+                        "... a ser usada somente por pilotos de competição.",
+                        "... delicada, pelo que a sua aprendizagem deve ser feita de forma progressiva.",
+                        "... usada para subir com mais velocidade."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Relativamente ao estudo das velocidades de um determinado perfil, uma polar de velocidades é estabelecida na relação entre:",
+                    "options": [
+                        "A velocidade máxima e a taxa de subida.",
+                        "A velocidade vertical e a velocidade horizontal.",
+                        "A velocidade horizontal e a taxa de subida.",
+                        "A velocidade vertical e a taxa de queda."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Na aproximação à aterragem.",
+                    "options": [
+                        "Tal como qualquer aeronave, os parapentes são obrigados a cumprir a aproximação aeronáutica.",
+                        "A técnica de aproximação em L é a que permite fazer um melhor reconhecimento do terreno.",
+                        " O grau de pranchamento deve ser sempre superior a 90º para facilitar a descida.",
+                        "A técnica em O é a que melhor permite reconhecer o terreno de todos os pontos de vista."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Em caso de um grande fecho assimétrico involuntário o piloto deve:",
+                    "options": [
+                        "Apoiar a tendência natural de rotação da asa para o lado do fecho.",
+                        "Contrariar a tendência natural de rotação da asa para o lado do fecho.",
+                        "Baixar os dois manobradores e levantar várias vezes e de forma rápida.",
+                        "Não intervir. Deixar a asa atuar naturalmente que ela recupera sozinha."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Em caso de acidente num local com vento",
+                    "options": [
+                        "O controlo da asa não é muito importante.",
+                        "A proteção térmica do acidentado é muito importante.",
+                        "Primeiro que tudo deve retirar-se o acidentado da cadeira/ arnês para não ser arrastado.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Um piloto que ao aterrar sofre um traumatismo num pé, cuja posição parece ser diferente do normal, deve suspeitar-se de fratura. Assim, deveremos proceder da seguinte forma:",
+                    "options": [
+                        "Retirar o calçado e colocar o pé na posição normal para o piloto ter menos dores.",
+                        "Não retirar o calçado, corrigir a posição do pé e imobilizar com o que houver por ali.",
+                        "Retirar o calçado, e procurar imobilizar o pé na posição em que se encontra.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Em caso de hemorragia venosa:",
+                    "options": [
+                        "Aplicar sempre, em simultâneo com qualquer outra ação nas veias, a compressão manual direta nas duas artérias carótidas de forma a diminuir a pressão de sangue em circulação.",
+                        "Aplicar, de imediato e sempre, compressão manual indireta. Por motivos de contaminação.",
+                        "Aplicar sempre compressão manual direta caso não apresente corpos estranhos encravados.",
+                        "Atuar apenas no sentido de tranquilizar a vitima e esperar a chegada de meios de socorro adequados. Socorrer de forma errada pode ser uma grande complicação."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Após uma aterragem muito violenta no meio de rochedos, a vítima queixa-se de dores abdominais, apresenta-se pálida, com suores frios e tem sede. Suspeitamos de:",
+                    "options": [
+                        "Hemorragia interna no abdómen e não devemos dar-lhe água. Apenas humedecer os lábios.",
+                        "Traumatismo craniano e não devemos dar-lhe água. Apenas humedecer os lábios.",
+                        "Apendicite aguda e não devemos dar-lhe água. Apenas humedecer os lábios",
+                        "Fratura do osso abdominal transverso e não devemos dar-lhe água. Apenas humedecer os lábios"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " O princípio da sustentação tem como referência, no que diz respeito à sua explicação mais usual, o escoamento do ar no intradorso relativamente ao extradorso, sendo:",
+                    "options": [
+                        "A velocidade mais alta no extradorso e mais baixa no intradorso",
+                        "A velocidade mais baixa no extradorso e mais alta no intradorso.",
+                        "A mesma velocidade no extradorso e no intradorso.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Ao atraso entre os extremos do bordo de ataque e o seu centro, chamamos:",
+                    "options": [
+                        "Curvatura",
+                        "Alongamento",
+                        "Ângulo de Diedro",
+                        "Enflechamento."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Rendimento aerodinâmico:",
+                    "options": [
+                        "É uma relação entre a sustentação que a asa produz e a sua resistência de forma.",
+                        "É uma relação entre a sustentação que a asa produz e a resistência parasita causada pelo restante.",
+                        "É uma relação entre a sustentação e a resistência, conhecida por L/D (Lift/Drag).",
+                        "É um conceito demasiado teórico típico dos aviões e que não se aplica nas nossas aeronaves."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A asa produz sustentação e tudo o resto resistência.",
+                    "options": [
+                        "Quando vários tipos de resistência se combinam, criam uma resistência ainda maior, a de interferência.",
+                        "A resistência de forma é produzida apenas pela posição do piloto.",
+                        "A resistência induzida é devida à viscosidade do ar.",
+                        "A resistência de fricção deve-se à deflexão do ar no bordo de fuga para baixo e para trás."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A camada limite:",
+                    "options": [
+                        "No Parapente a camada limite tem um fluxo laminar.",
+                        "O ar adere ao objeto devido à sua viscosidade.",
+                        "No Parapente é turbulenta apenas junto ao ponto de estagnação.",
+                        "Nos parapentes não existe camada limite."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Uma asa cuja velocidade mãos em cima é de 45km/h e que a determinado momento se move a 22,5km/h, podemos considerar que:",
+                    "options": [
+                        "Se desloca com vento de frente na ordem dos 22,5 km/h.",
+                        "Se desloca com vento de costas na ordem dos 22,5 km/h.",
+                        "Se desloca numa ascendente com uma velocidade de subida na ordem dos 2,0m/s.",
+                        "Se desloca numa descendente com uma velocidade de descida na ordem dos 2,0m/s."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Ao fazer uma volta demasiado lenta a asa pode entrar facilmente em:",
+                    "options": [
+                        "Perda sustentada.",
+                        "Perda assimétrica.",
+                        "Perda dinâmica.",
+                        "Parachutagem."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A definição de carga alar traduz-se:",
+                    "options": [
+                        "Na relação entre o peso da asa e a sua superfície.",
+                        "Na relação entre o peso do equipamento de voo e a superfície da asa.",
+                        "Não tem qualquer relação entre peso e superfície.",
+                        "Na relação entre o peso total em voo e a superfície da asa."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Em termos aerodinâmicos:",
+                    "options": [
+                        "Diminuindo o ângulo de ataque a velocidade diminui.",
+                        "Diminuindo o ângulo de ataque a velocidade aumenta.",
+                        "Aumentado o ângulo de ataque a velocidade aumenta.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Um cabeceio forte deve ser bem controlado pois pode provocar:",
+                    "options": [
+                        "Perda assimétrica.",
+                        "Perda total.",
+                        "Fecho frontal.",
+                        "Fecho assimétrico."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "FPVL Exam 2019-2",
+            "questions": [
+                {
+                    "question": "Organizações da aviação civil:",
+                    "options": [
+                        "A Organização da Aviação Civil Internacional (ICAO) tem a sua sede na Suíça.",
+                        "Da Convenção de Chicago, assinada em 7 dezembro de 1944, surgiu a (EASA) Agencia Europeia para a Segurança da Aviação.",
+                        "A FPVL é a Autoridade Nacional para a aviação ligeira de planeio (Parapente e Asa Delta) e de motor auxiliar (Paramotor).",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Em Portugal, a entidade reguladora desportiva para o Voo Livre e Paramotor, é:",
+                    "options": [
+                        "O Ministério dos Transportes.",
+                        "A Autoridade Nacional da Aviação Civil, IP",
+                        "O Instituto Português da Juventude e Desporto, IP.",
+                        "A Federação Portuguesa de Voo Livre."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "O Regulamento de Instrução e Titulações da FPVL é um documento técnico que:",
+                    "options": [
+                        "Só é possível de ser alterado pelas escolas da FPVL com licença de funcionamento válida.",
+                        "Estabelece toda a estrutura de formação de pilotos e instrutores de Voo Livre e Paramotor.",
+                        "Regulamenta a atividade associativa da FPVL.",
+                        "Regulamenta toda a atividade competitiva e formativa da FPVL."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "A Licença de Aprendizagem:",
+                    "options": [
+                        "É válida durante um ano e pode ser consecutivamente revalidada durante cinco anos.",
+                        "Permite o aluno voar, independentemente da presença do instrutor responsável.",
+                        "Não obriga à associação de um seguro de acidentes pessoais.",
+                        "Pode ser emitida a partir dos 18 anos sem autorização do Encarregado de Educação."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "São requisitos para obter a Licença de Pilotagem:",
+                    "options": [
+                        "16 anos e ter sido considerado apto na avaliação médico-desportiva.",
+                        "16 anos independentemente de ter sido considerado apto na avaliação médico-desportiva.",
+                        "18 anos e ter sido considerado apto na avaliação médico-desportiva.",
+                        "18 anos independentemente de ter sido considerado apto na avaliação médico-desportiva."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "A renovação de uma licença de piloto que não está válida há 3 anos, obriga a:",
+                    "options": [
+                        "Nos 12 meses anteriores ao pedido de renovação, pelo menos 5 voos em cada uma das classes ou tipos averbadas na licença.",
+                        "Nos 3 meses anteriores ao pedido de renovação, pelo menos 5 voos em cada uma das classes ou tipos averbadas na licença.",
+                        "Ter superado uma prova de voo administrada por um examinador de voo em cada uma das classes ou tipos de aeronave pertinentes, há menos de 3 meses.",
+                        "Ter superado um exame teórico escrito há menos de 6 meses."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "As regras de voo estabelecem que:",
+                    "options": [
+                        "Quando dois pilotos de parapente se encontram em rota de colisão, um deve subir e o outro descer.",
+                        "As aeronaves sem motor têm prioridade sobre as restantes.",
+                        "Um Parapente tem prioridade relativamente a um balão.",
+                        "Um Paramotor tem prioridade relativamente a um Parapente."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "É permitida a prática do Voo Livre",
+                    "options": [
+                        "Exclusivamente em espaços aéreos controlados em comunicação direta e constante com a gestão de tráfego aéreo.",
+                        "Exclusivamente em espaços aéreos não controlados em comunicação direta e constante com a gestão de tráfego aéreo.",
+                        "Dentro de nuvens desde que se consiga ver o GPS e haja comunicação direta e constante com a gestão de tráfego aéreo.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Áreas restritas são zonas em que:",
+                    "options": [
+                        "É permitido voar sem qualquer autorização.",
+                        "É permitido voar mas existem perigos potenciais para a navegação aérea.",
+                        "É permitido voar com prévia autorização.",
+                        "Não é permitido voar em qualquer circunstância."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A actual legislação:",
+                    "options": [
+                        "Impede a prática do Voo Livre em espaço aéreo tipo G.",
+                        "Estabelece zonas restritas de prática do voo desportivo onde mais nenhuma aeronave pode voar.",
+                        "Obriga o piloto a possuir seguro com cobertura para acidentes pessoais e responsabilidade civil.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Quanto ao equipamento:",
+                    "options": [
+                        "O bordo de ataque é a parte de trás da asa quando ela está em voo.",
+                        "O extradorso é a parte de cima da asa quando ela está em voo.",
+                        "O estabilizador é a parte de trás da asa quando ela está em voo.",
+                        "Os suspensores unem ao bordos marginais."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A velocidade mínima de voo de uma asa é aquela em que a asa:",
+                    "options": [
+                        "Tem capacidade para voar mais rápido.",
+                        "Se encontra perto da velocidade de perda.",
+                        "Consegue rodar melhor.",
+                        "Já não se consegue segurar mais."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Quanto a instrumentos de medida:",
+                    "options": [
+                        "Um altímetro funciona com base na variação da pressão atmosférica.",
+                        "Um anemómetro mede a temperatura do vento.",
+                        "Um variómetro funciona com base na variação da velocidade do vento.",
+                        "Uma manga de vento bem afinada aponta sempre para norte."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Quando se faz a revisão do paraquedas, o ideal será:",
+                    "options": [
+                        "Limpar os cordões e o tecido com água tépida e deixá-lo ao sol para eliminar toda a humidade.",
+                        "Passar bem cada prega, de preferência com um ferro de engomar a frio.",
+                        "Colocar resina nos cordões para diminuir a tensão de fricção.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Quanto a instrumentos de medida:",
+                    "options": [
+                        "Um altímetro mede a altura da asa às nuvens.",
+                        "Um variómetro funciona com base nas alterações da pressão atmosférica.",
+                        "Um anemómetro mede a distância a percorrer com base nas alterações do vento.",
+                        "Um GPS é um instrumento de avaliação da pressão atmosférica."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Numa descolagem a 2.500 metros de altitude:",
+                    "options": [
+                        "Dores de cabeça e desorientação podem ser um sintoma de hipóxia.",
+                        "Náuseas e vómitos não podem ser sintomas de hipóxia.",
+                        "Movimentos não coordenados podem ser sintomas de hipóxia.",
+                        "Vómitos podem ser sintomas de hipóxia."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " O potencial de risco da atividade é mais elevado com o uso de:",
+                    "options": [
+                        "Bebidas açucaradas em descolagens a grandes altitudes.",
+                        "Alguns fármacos.",
+                        "Sumos naturais em descolagens ao nível do mar.",
+                        "Nenhum dos anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Deve usar-se a manobra de valsalva",
+                    "options": [
+                        "Com a diminuição da altitude/ aumento da pressão atmosférica.",
+                        "Com o aumento de altitude/ diminuição da pressão atmosférica.",
+                        "Só em atividades de mergulho subaquático.",
+                        "Nunca. Não há qualquer efeito da variação da altitude/ pressão atmosférica sobre os ouvidos e seios perinasais."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Ao descolar, o piloto deve ter em atenção:",
+                    "options": [
+                        "A outros pilotos que possam estar a voar na zona.",
+                        "A inflar sempre com o máximo de rapidez possível.",
+                        "À corrida, tentando saltitar para compensar as consecutivas faltas de pressão na asa.",
+                        "Aos arranques e paragens sucessivas necessários para compensar a velocidade da asa."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Para maior segurança do piloto na prática do Voo Livre, é recomendável:",
+                    "options": [
+                        "Ignorar o seu estado psicológico, pois ter medo de voar é uma coisa natural para os humanos.",
+                        "Deixar-se influenciar a descolar por parte de outras pessoas, quando não tem a certeza se o quer fazer.",
+                        "Ignorar advertências de pilotos mais experientes.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " O ar move-se, porque...",
+                    "options": [
+                        "... a atmosfera tenta, constantemente, igualar as diferenças de pressão e humidade causadas pelo aquecimento diferenciado das regiões.",
+                        "... a terra está em movimento constante (Rotação e translação).",
+                        "... a atmosfera tenta, constantemente, igualar as diferenças de pressão e temperatura causadas pelo aquecimento diferenciado das regiões.",
+                        "... existe a força de Coriólis."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " O vento",
+                    "options": [
+                        "A rugosidade e obstáculos do terreno afetam o vento.",
+                        "O Efeito de Coriólis só tem influência nos ventos locais (Brisas).",
+                        "As diferenças de temperatura não influenciam o vento.",
+                        "A intensidade do vento não é condicionada pelo relevo."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Sistema de pressões",
+                    "options": [
+                        "A pressão é mais baixa no centro do anticiclone.",
+                        "A pressão é mais elevada no centro do anticiclone.",
+                        "A pressão é mais elevada no centro do ciclone.",
+                        "A pressão é igual no centro do ciclone e do anticiclone."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Isóbaras muito juntas, indica:",
+                    "options": [
+                        "Vento praticamente nulo.",
+                        "Vento moderado.",
+                        "Vento forte.",
+                        "A proximidade ou afastamento das isóbaras não tem qualquer relação com a velocidade do vento."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " No que respeita a superfícies frontais:",
+                    "options": [
+                        "Uma frente é uma linha que separa duas massas de ar com características diferentes, principalmente em temperatura e humidade.",
+                        "Uma frente poderá ser fresca, quente ou obtusa.",
+                        "Um sistema frontal está sempre associado a vento forte de norte.",
+                        "À passagem duma frente quente temos sempre vento norte, sol e céu azul."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A oclusão do sistema frontal:",
+                    "options": [
+                        "É um fenómeno meteorológico único e muito improvável de acontecer.",
+                        "Dá-se quando a frente quente alcança a frente fria.",
+                        "Dá-se quando a frente fria abranda, podendo até parar.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Brisas de vale e de montanha:",
+                    "options": [
+                        "As brisas de encosta têm origem no igual aquecimento da planície relativamente à encosta.",
+                        "Para alimentar a brisa de encosta, o ar é aspirado da atmosfera para os montanhas.",
+                        "Quando as montanhas fazem parte de uma cordilheira é possível que se criem sistema de brisas com ar aspirado a partir das planícies próximas.",
+                        "Nenhuma das anteriores"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Os movimentos verticais do ar:",
+                    "options": [
+                        "Têm origem no aquecimento diferenciado do terreno.",
+                        "São sempre muito suaves e estáveis.",
+                        "Têm origem no igual aquecimento do terreno.",
+                        "Impossibilitam sempre o voo em Parapente."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Cumuloninbos são nuvens:",
+                    "options": [
+                        "De convecção com o topo brilhante e que não ultrapassam os 2.500m.",
+                        "Espessas cinzentas e sem forma.",
+                        "De aspecto branco acinzentado em que o céu parece coberto de carneiros.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Na sua classificação quanto à altitude, são consideradas nuvens altas:",
+                    "options": [
+                        "Cumulos Cumulonimbus, Nimboestratos e estratos.",
+                        "Altostratos, altocumulos.",
+                        "Cirros, cirrostratos e cirrocumulos;",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " “Orelhas” são usadas em parapente e definem-se como uma manobra:",
+                    "options": [
+                        "De emergência que permite estabilizar a subida em térmica.",
+                        "Que diminui a superfície da asa e aumenta a taxa de queda.",
+                        "Que estabiliza a asa por fazer aumentar a relação entre a sua superfície e o peso.",
+                        "De instabilidade que só deve ser usada por pilotos de acrobacia."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A descolagem",
+                    "options": [
+                        "“Alpino” deve ser a técnica preferida quando há vento forte.",
+                        "“Reverso” deve ser a técnica preferida em situações de vento forte.",
+                        "A corrida deve ser efetuada aos saltos para corrigir, constantemente, as falhas de pressão na asa.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Espiral é uma manobra...",
+                    "options": [
+                        "... muito radical. Não deve ser utilizada.",
+                        "... a ser usada somente por pilotos de competição.",
+                        "... delicada, pelo que a sua aprendizagem deve ser feita de forma progressiva.",
+                        "... usada para subir com mais velocidade."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Relativamente ao estudo das velocidades de um determinado perfil, uma polar de velocidades é estabelecida na relação entre:",
+                    "options": [
+                        "A velocidade máxima e a taxa de subida.",
+                        "A velocidade horizontal e a taxa de subida.",
+                        "A velocidade vertical e a taxa de queda.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Na aproximação à aterragem.",
+                    "options": [
+                        "Os parapentes não são obrigados a cumprir a aproximação aeronáutica.",
+                        "A técnica de aproximação em L é a que permite fazer um melhor reconhecimento do terreno.",
+                        "Em condições de vento forte, com a técnica de aproximação em U é impossível falhar o local de aterragem.",
+                        "A técnica em O não deve ser usada quando o vento é nulo."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Em caso de uma perda:",
+                    "options": [
+                        "É sinal que o piloto estava com demasiado acelerador.",
+                        "O piloto deve baixar as mãos de imediato para recuperar a asa.",
+                        "É sinal que a asa atingiu uma velocidade abaixo da sua velocidade mínima de voo",
+                        "O piloto deve abrir o paraquedas de imediato."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Verificando-se que uma vítima apresenta uma deformação no braço resultante de uma fratura, deve:",
+                    "options": [
+                        "Imobilizar o braço tal como se apresenta, com tala e ligaduras, prevenir o estado de choque ou controlá-lo, se existir, e promover o transporte da vítima a uma emergência hospitalar.",
+                        "Imobilizar o braço tal como se apresenta e dar-lhe um objecto de borracha para a mão para ir apertando de forma a manter a circulação sanguínea. Levar a vítima ao hospital mais próximo.",
+                        "Esticar-se o braço pondo o osso no seu devido lugar e em seguida aplicar uma tala. Levar com a máxima urgência ao hospital.",
+                        "Apertar bem a zona deformada com uma ligadura, imobilizar a vítima numa maca e conduzi-la ao hospital."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Um piloto que ao aterrar sofra um traumatismo num pé, cuja posição esteja diferente do normal, deve-se suspeitar de fratura. Deverá proceder-se da seguinte forma:",
+                    "options": [
+                        "Não retirar o calçado e imobilizar o pé na posição em que se encontra.",
+                        "Retirar o calçado e colocar o pé na posição habitual para o piloto ter menos dores.",
+                        "Retirar o calçado, e imobilizar o pé na posição em que se encontra.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Em caso de hemorragia:",
+                    "options": [
+                        "Nunca aplicar compressão manual indireta.",
+                        "Aplicar sempre, em simultâneo com qualquer outra ação, a compressão manual direta nas duas artérias carótidas de forma a diminuir a pressão de sangue em circulação.",
+                        "Aplicar compressão manual direta caso não apresente corpos estranhos encravados.",
+                        "Atuar apenas no sentido de tranquilizar a vitima e esperar a chegada de meios de socorro adequados. Socorrer de forma errada pode ser uma grande complicação."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Após uma aterragem muito violenta no meio de rochedos, a vítima queixa-se de dores abdominais, apresenta-se pálida, com suores frios e tem sede. Suspeitamos de:",
+                    "options": [
+                        "Traumatismo craniano e não devemos dar-lhe água. Apenas humedecer os lábios.",
+                        "Apendicite aguda e não devemos dar-lhe água. Apenas humedecer os lábios",
+                        "Fratura do osso abdominal transverso e não devemos dar-lhe água. Apenas humedecer os lábios",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " O princípio da sustentação tem como referência, no que diz respeito à sua explicação mais usual, o escoamento do ar no intradorso relativamente ao extradorso, sendo:",
+                    "options": [
+                        "A velocidade mais alta no intradorso e mais baixa no extradorso",
+                        "A velocidade mais baixa no extradorso e mais alta no intradorso.",
+                        "A mesma velocidade no extradorso e no intradorso.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Ao atraso entre os extremos do bordo de ataque e o seu centro, chamamos:",
+                    "options": [
+                        "Curvatura",
+                        "Alongamento",
+                        "Enflechamento.",
+                        "Ângulo de Diedro"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Rendimento aerodinâmico:",
+                    "options": [
+                        "Quando vários tipos de resistência se combinam, criam uma resistência ainda maior, a de pressão.",
+                        "A resistência de interferência é produzida pela sustentação.",
+                        "Tudo o que não cria sustentação, cria resistência.",
+                        "A resistência induzida é devida à viscosidade do ar."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A RFA é o somatório das forças:",
+                    "options": [
+                        "Peso e resistência.",
+                        "Sustentação e peso.",
+                        "Sustentação e Resistência.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A camada limite:",
+                    "options": [
+                        "No Parapente a camada limite tem um fluxo laminar.",
+                        "O ar adere ao objeto devido à sua viscosidade.",
+                        "No Parapente é turbulenta apenas junto ao ponto de estagnação.",
+                        "Nos parapentes não existe camada limite."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Numa asa com velocidade, mãos em cima, de 40 km/h que se move a 55 km/h, podemos considerar que:",
+                    "options": [
+                        "Se desloca com vento de frente na ordem dos 15 km/h.",
+                        "Se desloca com vento de costas na ordem dos 15 km/h.",
+                        "Se não existe vento de costas é porque o piloto está com os manobradores a cerca de 30%.",
+                        "Se desloca numa ascendente com uma velocidade de subida na ordem dos 1,5m/s."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Ao ângulo de ataque mínimo corresponde:",
+                    "options": [
+                        "O máximo planeio.",
+                        "A velocidade máxima.",
+                        "A taxa de queda mínima.",
+                        "A velocidade mínima."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Ao fazer uma volta demasiado lenta a asa pode entrar facilmente em:",
+                    "options": [
+                        "Perda sustentada.",
+                        "Perda assimétrica.",
+                        "Perda dinâmica.",
+                        "Parachutagem."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A definição de carga alar traduz-se:",
+                    "options": [
+                        "Na relação entre o peso da asa e a sua superfície.",
+                        "Na relação entre o peso do equipamento de voo e a superfície da asa.",
+                        "Na relação entre o peso total em voo e a superfície da asa.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Um cabeceio forte deve ser bem controlado pois pode provocar:",
+                    "options": [
+                        "Perda assimétrica.",
+                        "Perda total.",
+                        "Fecho frontal.",
+                        "Fecho assimétrico."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "FPVL Exam 2023",
+            "questions": [
+                {
+                    "question": "A Organização da Aviação Civil Internacional (ICAO), surgiu:",
+                    "options": [
+                        "Da criação da União Europeia com o Tratado de Maastricht, em 1993",
+                        "Da Convenção de Chicago, assinada em 7 dezembro de 1944.",
+                        "Da criação da Comunidade Económica Europeia em 1957",
+                        "Da inclusão do Canada como membro do grupo de países mais industrializados do mundo (G7), em 1976."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Em Portugal, a Autoridade Nacional da Aviação Civil, IP (ANAC), é:",
+                    "options": [
+                        "A autoridade nacional em matéria de aviação civil.",
+                        "A entidade reguladora desportiva para o Voo Livre e Paramotor.",
+                        "A empresa prestadora de serviços de tráfego aéreo",
+                        "Nenhum dos anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "O Regulamento de Instrução e Titulações da FPVL (RIT):",
+                    "options": [
+                        "Só possível de alterar pelas escolas da FPVL com licença de funcionamento válida para o ano em questão.",
+                        "Regulamenta apenas a atividade competitiva da FPVL.",
+                        "Só pode ser alterado mediante autorização do Instituto Português de Juventude e Desporto",
+                        "Regulamenta as escolas e toda a dimensão formativa da FPVL."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "A Licença de Aprendizagem emitida pela FPVL:",
+                    "options": [
+                        "É válida durante um ano e só pode ser consecutivamente revalidada durante cinco anos.",
+                        "Pressupõe a correta subscrição de um seguro de responsabilidade civil e de acidentes pessoais.",
+                        "Permite o aluno voar livremente e em qualquer situação.",
+                        "Pode ser emitida a partir dos 14 anos, com autorização do Encarregado de Educação."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "São requisitos para obter a Primeira Licença de Pilotagem:",
+                    "options": [
+                        "16 anos e ter sido considerado apto num Exame Teórico Nacional e na avaliação médico-desportiva.",
+                        "16 anos independentemente de ter sido considerado apto num Exame Teórico Nacional e na avaliação médico- desportıva.",
+                        "18 anos independentemente de ter sido considerado apto num Exame Teórico Nacional e na avaliação médico-desportiva.",
+                        "18 anos e ter sido considerado apto num Exame Teórico Nacional e na avaliação médico-desportiva."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "A renovação de uma licença de piloto, que não está válida há 6 anos, obriga a um documento de avaliação médico desportiva favorável para a prática da modalidade em causa e:",
+                    "options": [
+                        "Ter superado um exame teórico escrito escrito há menos de 6 meses.",
+                        "Ter superado um exame teórico escrito escrito há menos de 30 dias.",
+                        "Ter superado um exame teórico escrito há menos de 12 meses.",
+                        "Demonstração de ter efetuado, nos 12 meses anteriores ao pedido de revalidação, pelo menos 5 voos em cada uma das classes ou tipos averbados na licença."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Quando dois pilotos se encontram em rota de colisão em voo orográfico, o piloto que tem a montanha do seu lado esquerdo:",
+                    "options": [
+                        "Deve descer para permitir a passagem do outro piloto por cima.",
+                        "Deve manter a sua rota e aguardar que o outro piloto se desvie para a direita para permitir a sua passagem.",
+                        "Deve manter a sua rota e aguardar que o outro piloto desça para permitir a sua passagem por cima.",
+                        "eve desviar-se para a direita para permitir a passagem do outro piloto."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "Áreas restritas são zonas em que:",
+                    "options": [
+                        "É permitido voar sem qualquer autorização.",
+                        "E permitido voar, mas existem perigos potenciais para a navegação aérea.",
+                        "É permitido voar com prévia autorização.",
+                        "Não é permitido voar em qualquer circunstância."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "Não é permitida prática do Voo Livre em:",
+                    "options": [
+                        "Espaços aéreos controlados, mesmo se em coordenação com a gestão de tráfego aéreo.",
+                        "Espaços de aéreos não controlados.",
+                        "Dentro de nuvens mesmo que se consiga ver o GPS e em coordenação com a gestão de tráfego aéreo.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Existem 3 tipos de áreas restritas que podem ser observadas nas cartas aeronáuticas:",
+                    "options": [
+                        "Perigosas (D), Restritas (R) e Proibidas (P).",
+                        "Abrigadas (A), Resguardadas (R) e Proibidas (P).",
+                        "Perigosas (P), Reservadas (R) e Proibidas (P).",
+                        "Perigosas (P), Abrigadas (A) e Reservadas (R)."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Quanto ao equipamento:",
+                    "options": [
+                        "O bordo de ataque é a parte da frente de uma asa quando ela está em voo.",
+                        "O estabilizador é uma porção de asa compreendida entre dois perfis internos principais.",
+                        "O bordo de fuga é a parte de frente de uma asa quando ela está em voo",
+                        "O extradorso é a parte de baixo da asa quando ela está em voo."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " No que respeita à homologação de equipamentos",
+                    "options": [
+                        "Garantem testes de resistência estrutural, de longevidade e durabilidade do material.",
+                        "Garantem testes de resistência estrutural e de voo.",
+                        "Garantem testes de voo e cálculos de performance, mas apenas em situações de vento laminar.",
+                        "Garantem testes de voo e cálculos de performance, em todas as situações de voo."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Um altímetro funciona com base na variação da:",
+                    "options": [
+                        "Humidade do ar.",
+                        "Pressão atmosférica.",
+                        "Gradiente adiabático seco",
+                        "Gradiente adiabático húmido."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Quando se faz a revisão do paraquedas de emergência, o ideal será:",
+                    "options": [
+                        "Limpar os cordões e o tecido com água, deixá-la à sombra até secar por completo e dobrar.",
+                        "Deixar aberto de um dia para o outro num local fresco e seco.",
+                        "Abrir e deixar secar bem ao sol antes de o voltar a dobrar.",
+                        "Colocar pó de talco nos cordões para diminuir a humidade e a tensão de fricção e dobrar."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Ainda quanto ao equipamento e de acordo com a legislação em vigor:",
+                    "options": [
+                        "Capacete não é um acessório de voo obrigatório",
+                        "Óculos são um acessório de voo obrigatório.",
+                        "Botas são um acessório de voo obrigatório",
+                        "Luvas são um acessório de voo obrigatório"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Fenómenos de hiperventilação:",
+                    "options": [
+                        "Caracterizam-se por uma respiração agitada e superficial.",
+                        "Sugerem sempre a existência de ansiedade e ataques de pânico.",
+                        "Podem ter como origem o excesso de oxigénio disponível nesse lugar.",
+                        "Não têm qualquer relação com a atividade física."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Numa descolagem a 1.900 metros de altitude:",
+                    "options": [
+                        "Dor de cabeça pode ser um sintoma de hipoxia.",
+                        "Náuseas e vómitos não podem ser sintomas de hipoxia",
+                        "Movimentos não coordenados podem ser sintomas de hipoxia.",
+                        "Desorientação pode ser sintoma de hipoxia"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " As alterações de altitude/ pressão atmosférica têm repercussões no sistema auditivo humano",
+                    "options": [
+                        "Com o aumento da altitude a pressão atmosférica aumenta e não deve usar-se a manobra de valsalva",
+                        "Com o aumento da altitude a pressão atmosférica diminui e deve usar-se a manobra de valsalva.",
+                        "Com a diminuição da altitude a pressão atmosférica aumenta e deve usar-se a manobra de valsalva.",
+                        "Com a diminuição da altitude a pressão atmosférica aumenta e não deve usar-se a manobra de valsalva."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Ao descolar, o piloto deve ter em atenção a:",
+                    "options": [
+                        "Inflar prontamente e sempre com o máximo de velocidade possível.",
+                        "Correr com passos firmes, longos e lentos.",
+                        "Pilotos que também estão a descolar em outra zona da descolagem.",
+                        "Necessidade de fazer arranques e paragens sucessivas para poder compensar a velocidade da asa."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Após e formação inicial, a evolução do piloto é favorecida, quando:",
+                    "options": [
+                        "Voa apenas com os pilotos de competição.",
+                        "Voa apenas em locais com um desnível superior a 500 metros.",
+                        "Se mantém ligado a uma escola e sob supervisão de um instrutor credenciado.",
+                        "Voa apenas junto ao solo para se habituar a controlar bem a asa."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " O ar move-se, porque…",
+                    "options": [
+                        "…a atmosfera tenta, constantemente, igualar as diferenças de pressão e temperatura causadas pelo",
+                        "…a atmosfera tenta, constantemente, igualar as diferenças de pressão e humidade causadas pelo aquecimento diferenciado das regiões.",
+                        "...a atmosfera tenta, constantemente, igualar as diferenças de temperatura e humidade causadas pelo aquecimento diferenciado das regiões.",
+                        "..a terra está em movimento constante (Rotação e translação)."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Sistema de pressões e direção de vento.",
+                    "options": [
+                        "No anticiclone o vento circula sempre no sentido dos ponteiros do relógio.",
+                        "No anticiclone, o vento circula sempre no sentido contrário ao dos ponteiros do relógio",
+                        "No ciclone, o vento circula sempre no sentido dos ponteiros do relógio.",
+                        "Nenhuma das anteriores.",
+                        "Praticamente nulo",
+                        "Moderado",
+                        "Forte",
+                        "A proximidade ou afastamento das isóbaras não tem qualquer relação com a velocidade do vento."
+                    ],
+                    "correctIndex": 4
+                },
+                {
+                    "question": " A rugosidade e obstáculos do terreno podem afetar:",
+                    "options": [
+                        "A direção e intensidade do vento.",
+                        "Apenas a direção do vento",
+                        "Apenas a intensidade do vento",
+                        "Nem a direção nem a intensidade do vento."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Em termos genéricos poderemos afirmar que:",
+                    "options": [
+                        "A igual temperatura do ar motiva a sua movimentação",
+                        "A diferença de temperatura do ar motiva a sua movimentação",
+                        "A temperatura do ar não influencia a sua movimentação.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A oclusão do sistema frontal:",
+                    "options": [
+                        "Dá-se quando a frente fria abranda, podendo até parar (Frente estacionária).",
+                        "Dá-se quando a frente quente abranda, podendo até parar (Frente estacionária).",
+                        "á-se quando a frente fria alcança a frente quente.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A brisa do mar deve-se, sobretudo:",
+                    "options": [
+                        "Ao sobreaquecimento do mar relativamente à terra.",
+                        "Ao igual aquecimento da terra e do mar.",
+                        "Ao sobreaquecimento da terra relativamente ao mar.",
+                        "Não há relação entre o aquecimento da terra e do mar com a brisa de mar."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Uma ascendente orográfica tem origem:",
+                    "options": [
+                        "No aquecimento diferenciada das superfícies a volta de uma encosta.",
+                        "No arrefecimento diferenciado das superfícies a volta de uma encosta.",
+                        "Na necessidade de o vento ultrapassar uma encosta que se lhe opõe como obstáculo."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Cúmulos são nuvens:",
+                    "options": [
+                        "De convecção com base horizontal e os topos brilhantes.",
+                        "Espessas cinzentas e sem forma.",
+                        "De aspeto cinzento em que o céu parece coberto de carneiros.",
+                        "Altas, brancas, translúcidas e de aspeto fibroso."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Na sua classificação quanto à altitude, são consideradas nuvens médias:",
+                    "options": [
+                        "Cúmulos, Cúmulos-nimbus, Nimbo-estratos e estratos",
+                        "Alto-estratos e alto-cúmulos",
+                        "Cirros, Cirros-estratos e Cirros-cúmulos;",
+                        "Nenhuma das anteriores"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A preparação e planeamento do voo prevê a necessidade de consulta dos NOTAM ativos.",
+                    "options": [
+                        "Não. Exceto se o voo for em espaço aéreo não controlado.",
+                        "Não. Nunca.",
+                        "So quando o voo for em espaço aéreo controlado."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A descolagem",
+                    "options": [
+                        "“Alpino” deve ser a técnica preferida quando há vento muito fraco.",
+                        "\"Reverso\" deve ser a técnica preferida em situações de vento muito fraco",
+                        "\"Alpino\" deve ser a técnica preferida quando há vento muito forte.",
+                        "Nenhum dos anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " \"'Orelhas\" é uma manobra, que:",
+                    "options": [
+                        "Deve ser usada apenas para subir com menos velocidade.",
+                        "Deve ser usada para usufruir da diminuição da relação entre a superfície alar e a carga em voo",
+                        "Deve ser aprendida com instrutores especializados.",
+                        "Muito radical. Só deve ser utilizada em casos extremos."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Relativamente ao estudo das velocidades de um determinado perfil, uma polar de velocidades é estabelecida na relação entre:",
+                    "options": [
+                        "A sua velocidade vertical e a sua velocidade horizontal.",
+                        "A sua velocidade horizontal máxima e a sua taxa de subida",
+                        "A sua velocidade horizontal e a sua taxa de subida.",
+                        "A sua velocidade vertical mínima e a sua taxa de queda."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Dá-se uma perda:",
+                    "options": [
+                        "É sinal de que o piloto levava as mãos demasiado em cima.",
+                        "É o momento em que o piloto deverá baixar as duas mãos para recuperar a asa.",
+                        "É sinal de que a asa atingiu uma velocidade abaixo da sua velocidade mínima de voo.",
+                        "É o momento em que o piloto deve abrir o paraquedas de emergência."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Na aproximação à aterragem",
+                    "options": [
+                        "As aeronaves de voo livre não são obrigadas a cumprir a aproximação aeronáutica.",
+                        "A técnica de aproximação em \"L” é a que permite fazer um melhor reconhecimento do terreno",
+                        "Em condições de vento fraco, com a técnica de aproximação em \"\"U\" é impossível falhar o local de aterragem.",
+                        "Em condições de vento fraco, com técnica de aproximação em \"O\" é impossível falhar local de aterragem."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Verificando-se que, após uma queda, a vítima apresenta uma deformação num braço resultante de uma fratura, antes de promover o transporte da vítima a uma emergência hospitalar, deve-se:",
+                    "options": [
+                        "Apertar bem a zona deformada com uma ligadura.",
+                        "Imobilizar o braço tal como se apresenta e dar um objeto para a mão para ir apertando de forma a manter a circulação sanguínea ativa.",
+                        "Imobilizar o braço tal como se apresenta, prevenir o estado de choque ou controlá-lo, se existir.",
+                        "Esticar o braço para anular a deformação observada e imobilizar."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Em caso de acidente num local com vento",
+                    "options": [
+                        "O controlo da asa pode ser preponderante ao sucesso do socorro.",
+                        "A proteção térmica do acidentado não terá qualquer influência para o sucesso do socorro.",
+                        "Primeiro que tudo deve retirar-se o acidentado da cadeira/ arnês para não ser arrastado.",
+                        "Nenhuma das anteriores"
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Em caso de hemorragia:",
+                    "options": [
+                        "Nunca aplicar compressão manual direta.",
+                        "Aplicar compressão manual indireta caso o local apresente corpos estranhos cravados.",
+                        "Atuar no sentido de tranquilizar a vítima e esperar a chegada de meios de socorro adequados.",
+                        "Não mexer em nada. Socorrer de forma errada pode ser uma grande complicação:"
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Após uma aterragem muito violenta no meio de rochedos, a vítima queixa-se de dores abdominais, apresenta-se muito pálida, com suores frios e tem sede. Deveremos suspeitar e atuar em conformidade com a suspeita de:",
+                    "options": [
+                        "Traumatismo craniano.",
+                        "Apendicite aguda",
+                        "Hemorragia interna"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " O princípio da sustentação tem como referência, no que diz respeito à sua explicação mais usual, escoamento do ar no intradorso relativamente ao extradorso, sendo:",
+                    "options": [
+                        "A velocidade mais baixa no intradorso e mais alta no extradorso",
+                        "A velocidade mais baixa no extradorso e mais alta no intradorso",
+                        "A mesma velocidade no extradorso e no intradorso",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Chamamos Enflechamento:",
+                    "options": [
+                        "A curva que a envergadura da asa forma.",
+                        "Ao atraso entre os extremos do bordo de ataque e o seu centro",
+                        "Ao quociente entre a corda máxima e a corda mínima.",
+                        "Ao ângulo formado pelas duas meias asas com o plano horizontal."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Rendimento aerodinâmico - Resistências:",
+                    "options": [
+                        "Quando vários tipos de resistência se combinam, criam uma resistência ainda maior, a de pressão",
+                        "A resistência de interferência é produzida pela sustentação",
+                        "Se não contribui diretamente para a produção da sustentação, é uma resistência parasita.",
+                        "A resistência induzida é devida à viscosidade do ar."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A RFA é o somatório das forças:",
+                    "options": [
+                        "Peso e resistência",
+                        "Sustentação e peso.",
+                        "Sustentação e Resistência.",
+                        "Nenhuma das anteriores"
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " A camada limite:",
+                    "options": [
+                        "Nas aeronaves de voo livre tem sempre um fluxo laminar.",
+                        "O ar adere ao objeto devido à sua viscosidade.",
+                        "Nas aeronaves de voo livre é turbulenta a partir do ponto de estagnação.",
+                        "Nas aeronaves de voo livre não existe camada limite."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "Faixa de velocidades",
+                    "options": [
+                        "Velocidade mínima corresponde ao ângulo de ataque mínimo.",
+                        "Velocidade de taxa de queda máxima é a velocidade que permite voar com menos afundamento.",
+                        "Velocidade de melhor planeio é aquela que permite percorrer maior distância quando não há ascendentes ou descendentes.",
+                        "Velocidade máxima é a que corresponde ao ângulo de ataque máximo."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Numa asa com velocidade em ponto neutro de 38 km/h que se move a 50 km/h, podemos considerar que:",
+                    "options": [
+                        "Se desloca com vento de frente na ordem dos 12 km/h.",
+                        "Se desloca com vento lateral na ordem dos 12 km/h.",
+                        "Se desloca numa descendente com uma velocidade de descida na ordem dos 12m/s."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Uma asa entra em perda se o piloto:",
+                    "options": [
+                        "Diminuir a velocidade acima da sua velocidade máxima de voo",
+                        "Diminuir a velocidade abaixo da sua velocidade mínima de voo.",
+                        "Aumentar a velocidade acima da sua velocidade máxima de voo.",
+                        "Aumentar a velocidade acima da sua velocidade mínima de voo."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " A definição de carga alar traduz-se:",
+                    "options": [
+                        "Na relação entre o peso total em voo e a superfície da asa.",
+                        "Na relação entre o peso da asa e a sua superfície.",
+                        "Na relação entre o peso do equipamento de voo e a superfície da asa.",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Em termos aerodinâmicos:",
+                    "options": [
+                        "Diminuindo o ângulo de ataque a velocidade aumenta",
+                        "Diminuindo o ângulo de ataque a velocidade diminui.",
+                        "Aumentado o ângulo de ataque a velocidade aumenta",
+                        "Nenhuma das anteriores."
+                    ],
+                    "correctIndex": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "exams": [
         {
-            "name": "Exam Level2 2017",
+            "name": "FPVL Exam 2015",
             "questions": [
                 {
                     "question": "The institution responsible for regulating the non-military aviation in Portugal is:",
@@ -506,7 +506,512 @@
             ]
         },
         {
-            "name": "Exam Level2 2018",
+            "name": "FPVL Exam 2017",
+            "questions": [
+                {
+                    "question": "The institution responsible for regulating the non-military aviation in Portugal is:",
+                    "options": [
+                        "Secretaria de Estado das Infraestruturas, Transportes e Comunicações (The State Agency for Infrastructure, Transport and Communications).",
+                        " Instituto Nacional de Aviação Civil, IP(National Institute for Civil Aviation).",
+                        " Instituto da Mobilidade e Transportes, IP(Institute for Mobility and Transport).",
+                        " Federação Portuguesa de Voo Livre (Portuguese Free Flight Federation)."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": "In Portugal, the sport organism responsible for regulating the free flight is:",
+                    "options": [
+                        "Secretaria de Estado das Infraestruturas, Transportes e Comunicações.(State Agency for the Infrastructure, Transports and Communications)",
+                        "Instituto Português de Desporto e Juventude – IP. (Portuguese Institute of Sport and Youth)",
+                        "Instituto Nacional de Aviação Civil – IP. (National Institute for Civil Aviation)",
+                        "Federação Portuguesa de Voo Livre (Portuguese Free Flight Federation)"
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "The Regulation of Instruction and Titles (RIT) of the FPVL is a technical document that:",
+                    "options": [
+                        "It can only be altered by the schools with valid working permit.",
+                        "Establishes 5 levels of free flight pilot.",
+                        "Regulates the instruction, titles and training of free flight pilots and instructors.",
+                        "Regulates all the FPVL activity concerning competition and training."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The revalidation of the pilot license obliges to the demonstration that the pilot as done:",
+                    "options": [
+                        "In the 12 months before the revalidation request , at least 200 flights in every class or type of aircraft registered in the license.",
+                        "In the 5 months before the revalidation request , at least 5 flights in every class or type of aircraft registered in the license.",
+                        "In the 12 months before the revalidation request , at least 5 flights in every class or type of aircraft registered in the license.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The requirements to obtain the Free Flight License are:",
+                    "options": [
+                        "16 years and finishing the compulsory education.",
+                        "16 years regardless of finishing the compulsory education.",
+                        "18 years and finishing the compulsory education.",
+                        "18 years regardless of finishing the compulsory education."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": "The flight rules establish that, in open air, when two pilots are in collision route:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "The flight rules establish that when flying close to a ridge if two pilots are in a collision course:",
+                    "options": [
+                        "Each pilot should turn right.",
+                        "Each pilot should turn left.",
+                        "The priority goes to the less experienced pilot.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": "It is allowed to practice Free Flight",
+                    "options": [
+                        "In non-controlled airspace with a NOTAM issued.",
+                        "Inside the clouds only when we can see the GPS.",
+                        "In controlled airspace only during competition and with communication with Air Traffic Control.",
+                        "In military areas, flying below 300 meters."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": "Restricted areas are zones in which:",
+                    "options": [
+                        "It is not allowed to fly.",
+                        "It is allowed to fly but there are potential dangers to the air navigation.",
+                        "It is allowed to fly with authorization from the air traffic control.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The current legislation:",
+                    "options": [
+                        "Obliges the revision of the wings every 6 months.",
+                        "Establishes areas where no other aircraft can fly.",
+                        "Obliges the paragliding pilots to fly VFR.",
+                        "Establishes that, with all the instruments we carry (GPS and vario), the competition pilots can fly IFR."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " To improve the efficiency of the emergency parachute we should open it, air it and fold it:",
+                    "options": [
+                        "Every month.",
+                        "Every 18 months.",
+                        "Every 6 months.",
+                        "Every 12 months."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When falling with the parachute the arrival at the ground is violent. The pilot should:",
+                    "options": [
+                        "Run as fast as you can.",
+                        "Use the Roulé Boulé technique.",
+                        "Spread the legs and bend the knees and body.",
+                        "Put the legs together and look at the sky."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If the parachute gets damaged in the landing the pilot should:",
+                    "options": [
+                        "Fix it with what he has on hand.",
+                        "Put it in the garbage.",
+                        "Send it to a qualified technician so that it can be repaired.",
+                        "No repair is needed because the probability of ever using it in this life is very small."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When doing the inspection of the emergency parachute one should:",
+                    "options": [
+                        "Leave it in the shade to air out at least one day.",
+                        "Iron each wrinkle, preferably with a cool iron.",
+                        "Hang it in the sun for a few hours to eliminate all the moist.",
+                        "Spread some resin in the lines to reduce the friction."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " When doing the inspection of the emergency parachute the pilot should have in mind:",
+                    "options": [
+                        "The temperature of the day so that the lines don’t suffer additional stretching.",
+                        "The relative humidity of the day, in order to keep the parachute with some moist.",
+                        "The place where it will be folded in order to keep it clean from animals and dirt.",
+                        "Do it only in the morning."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " At a take-off at 3.800 meters:",
+                    "options": [
+                        "The necessary speed to take off is the same as taking off at sea level.",
+                        "Hypoxia symptoms are a factor to be aware.",
+                        "Due to the cold the helmet should be substituted by a wool cap.",
+                        "The only possible way to take off is with reverse launch due to the wind gradient."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The potential risk of the paragliding activity is greatly raised with the use of:",
+                    "options": [
+                        "Energetic drinks.",
+                        "Orange juice.",
+                        "Natural juices.",
+                        "Alcohol and drugs."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " When a pilot has a severe inflammation of the hearing system and/or of the vestibular system he should:",
+                    "options": [
+                        "Fly low.",
+                        "Fly without restriction.",
+                        "Fly slowly.",
+                        "Fly on another day."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " Capability to fly:",
+                    "options": [
+                        "Regardless the health condition of the pilot if he can fly he should not stay in the ground. Practice leads to perfection.",
+                        "When symptoms of illness or fatigue are present the decision to fly on another day is the better option.",
+                        "Even if the night rest was not enough the pilot should fly because the weather may not be good the next time.",
+                        "When a pilot is not in good physical condition he should make distance flights so he can practice and get more fit doing this."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " If a pilot as done scuba diving he should wait before flying:",
+                    "options": [
+                        "If he has done one single dive, 5 days.",
+                        "If he has done one single dive, 8 days.",
+                        "If he has done several dives or several days diving, 30 days.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " A low pressure originated by thermal activity:",
+                    "options": [
+                        "Is formed by the heating of the lower layers of the atmosphere.",
+                        "Will get stronger when the precipitation cools the air below.",
+                        "The circulation of cold air in the lower levels can help its beginning.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " An adiabatic process is a thermodynamic process in which:",
+                    "options": [
+                        "There are no swaps of pressure with the surroundings.",
+                        "There are swaps of pressure with the surroundings.",
+                        "There are no swaps of heat with the surroundings.",
+                        "There are swaps of heat with the surroundings."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In a situation with strong wind:",
+                    "options": [
+                        "It´s a good factor that helps the organization of good thermals because the wind is a good trigger.",
+                        "It´s a good factor that helps the organization of strong thermals.",
+                        "It´s a good factor that helps the continuous release of bubbles not allowing enough time for consistent thermals to form.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In case of a strong and consistent thermal the wind:",
+                    "options": [
+                        "Breaks it and turns it in to a turbulent situation.",
+                        "Goes around it like a normal obstacle creating zones of windward and leeward.",
+                        "It blasts down the gradient and the thermal.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The amount of water that the air can store depends on the temperature and the purity of that air.",
+                    "options": [
+                        "The lower the temperature and the higher the purity, higher quantity of water it can hold.",
+                        "The higher the temperature and the higher the purity, lower quantity of water it can hold.",
+                        "The higher the temperature and the higher the purity, higher quantity of water it can hold.",
+                        "There is no relation between the amount of water that the air can hold and its temperature and purity."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Formation of clouds:",
+                    "options": [
+                        "After the passage of a cold front we might have showers, many cumulus and periods of blue sky.",
+                        "A cloud formed by the convection has its origin in a mass of air that goes up and never reaches the dew point.",
+                        "The formation of cirrostratus is a good indicator of thermal activity.",
+                        "The cumulus humilis are always formed in the presence of a low pressure or when a hot front is passing."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Clouds classification concerning its height:",
+                    "options": [
+                        "Cirrus are middle clouds (between 3.000m and 6.000m).",
+                        "Cumulonimbus are low clouds (below 3.000m).",
+                        "Altocumulus are high clouds (more than 6.000m).",
+                        "Nimbostratus are middle clouds (between 3.000m and 6.000m)."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " Stratus are:",
+                    "options": [
+                        "High clouds that block the solar heating.",
+                        "Low clouds without structure.",
+                        "Clouds that are indicators of good flying conditions.",
+                        "Clouds associated with strong thermals."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In an atmosphere with the characteristic described in the chart below, a mass of air with a trigger point of 26ºC and with a dew point temperature of 8ºC at 600m:",
+                    "options": [
+                        "It will go up until 3.060m where it forms a cloud.",
+                        "It will go up until 2.600m where it reaches the ceiling.",
+                        "It will go up until 2.050m where it will find a strong inversion.",
+                        "It will go up until 3.850m where it reaches the ceiling."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " With the data from the previous chart. The air mass:",
+                    "options": [
+                        "Will form a cloud around 2.050m.",
+                        "Will form a cloud around 3.060m.",
+                        "Will form a cloud around 3.850m.",
+                        "It won’t form a cloud because it won’t reach the dew point temperature.."
+                    ],
+                    "correctIndex": 3
+                },
+                {
+                    "question": " We look for thermals in areas:",
+                    "options": [
+                        "Soft and green.",
+                        "With strong thermal contrast.",
+                        "With soft thermal contrast.",
+                        "Without thermal contrast."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In order to better utilize the thermal lift:",
+                    "options": [
+                        "If it´s strong and narrow the pilot should turn in a tighter circle.",
+                        "If it´s strong and narrow the pilot should turn in a wider circle.",
+                        "If it´s weak and wide the pilot should turn in a tighter circle.",
+                        "To turn in a wider or narrow circle has no relation with the dimension or strength of the thermal."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In the presence of wind, in order to better utilize the thermal lift, the pilot should:",
+                    "options": [
+                        "Make a lot of short turns in order to be as centered as possible.",
+                        "Make a zig-zag in order to be as centered as possible.",
+                        "Follow the drift of the thermal in order to be as centered as possible.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " To make the most of the flight, the pilot should go from one thermal to the next when:",
+                    "options": [
+                        "There are other pilots going up in the same thermal.",
+                        "There are other pilots in the same thermal but they can’t go up.",
+                        "The thermal is getting weak and it is possible to reach a better one.",
+                        "The thermal is strong and the lift rate is high."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When inside of a thermal, the pilot should:",
+                    "options": [
+                        "Stay as still as possible.",
+                        "Seek constantly the strongest core.",
+                        "Leave the thermal several times to find the edges of the lift.",
+                        "Fly in a straight line."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " As the day passes the thermals get:",
+                    "options": [
+                        "Weaker around 15 hours.",
+                        "Stronger at the evening.",
+                        "Weaker at the evening.",
+                        "Maintain their strength."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In the MacCready theory the calculations have their base in:",
+                    "options": [
+                        "The wing coefficient of lift and drag.",
+                        "The level of wing torsion.",
+                        "The wing polar curve.",
+                        "The wing aspect ratio."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The MacCready ring gives indication about the speed that the pilot should have based in:",
+                    "options": [
+                        "Strongest lift ahead, fly faster.",
+                        "Strongest lift ahead, fly slower.",
+                        "Strongest lift ahead, maintain the medium speed of the wing.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " In an accident:",
+                    "options": [
+                        "The most important is to call a person that the victim knows.",
+                        "The most important is to cry really high for help.",
+                        "The cardiac arrest is a situation of primary help.",
+                        "To keep the victim immobilized is not relevant."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " On a primary survey to the victim the most important is:",
+                    "options": [
+                        "To know the name and phone number of the victims contact.",
+                        "Don’t act if you’re not a licensed rescuer.",
+                        "To move away the danger from the victim, avoiding more accidents.",
+                        "Protect the victims property."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In order to achieve the maximum performance from the flight the optimization of the speed is fundamental. The pilot should:",
+                    "options": [
+                        "In the presence of lift fly faster.",
+                        "With tail wind fly faster.",
+                        "With head wind fly faster.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " Regarding the glide and wing loading of a profile:",
+                    "options": [
+                        "The best glide is not altered by the wing loading.",
+                        "The best glide is obtained with a lower wing loading.",
+                        "The best glide is obtained with a higher wing loading.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " A strong decrease in the angle of attack might cause:",
+                    "options": [
+                        "A stall.",
+                        "A frontal collapse.",
+                        "An asymmetric collapse.",
+                        "A parachutage."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " In order to better optimize the thermal lift if the pilot makes the turn to slow the wing can go into:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Sustained stall.",
+                        "Parachutage.",
+                        "Dynamic stall."
+                    ],
+                    "correctIndex": 0
+                },
+                {
+                    "question": " Aerodynamic:",
+                    "options": [
+                        "The speed decreases when the angle of attack decreases.",
+                        "The speed increases when the angle of attack increases.",
+                        "The speed increases when the angle of attack decreases.",
+                        "None of the above."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " When the wing loading increases a wing will go in a stall at a horizontal velocity:",
+                    "options": [
+                        "Lower.",
+                        "Equal",
+                        "Higher.",
+                        "The increase of the wing loading has no relation with the stall speed."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " In order to keep himself inside of the thermal a pilot acts on both brakes symmetrically. If he decreases the velocity too much he will make:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Complete stall.",
+                        "Frontal collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " After an asymmetric collapse a pilot should:",
+                    "options": [
+                        "Make a full stall to recover from the collapse.",
+                        "Use the speed system to control the pitch.",
+                        "Stop the wing from turning.",
+                        "Raise both hands to allow the wing to recover from the collapse faster."
+                    ],
+                    "correctIndex": 2
+                },
+                {
+                    "question": " The pitch movement happens on the axis:",
+                    "options": [
+                        "Vertical and it should be stopped with a symmetrical action on the brakes.",
+                        "Lateral and it should be stopped with a symmetrical action on the brakes.",
+                        "Longitudinal and it should be stopped with a symmetrical action on the brakes.",
+                        "The free flight aircrafts don´t make pitch movements."
+                    ],
+                    "correctIndex": 1
+                },
+                {
+                    "question": " The pitch should be controlled because it may cause:",
+                    "options": [
+                        "Asymmetric stall.",
+                        "Total stall.",
+                        "Frontal collapse.",
+                        "Asymmetric collapse."
+                    ],
+                    "correctIndex": 2
+                }
+            ]
+        },
+        {
+            "name": "FPVL Exam 2018",
             "questions": [
                 {
                     "question": "The institution responsible for regulating the non-military aviation in Portugal is:",
@@ -1011,7 +1516,7 @@
             ]
         },
         {
-            "name": "Exam Level2 2019",
+            "name": "FPVL Exam 2019",
             "questions": [
                 {
                     "question": "Civil aviation organizations:",
@@ -1516,7 +2021,7 @@
             ]
         },
         {
-            "name": "Exam Level2 2020",
+            "name": "FPVL Exam 2020",
             "questions": [
                 {
                     "question": "Civil aviation organizations:",
@@ -2021,7 +2526,7 @@
             ]
         },
         {
-            "name": "Exam Level2 2021",
+            "name": "FPVL Exam 2021",
             "questions": [
                 {
                     "question": "Civil aviation organizations:",
@@ -2526,7 +3031,7 @@
             ]
         },
         {
-            "name": "Exam Level2 2022",
+            "name": "FPVL Exam 2022",
             "questions": [
                 {
                     "question": "Civil aviation organizations:",
@@ -3031,7 +3536,7 @@
             ]
         },
         {
-            "name": "Exam Level2 2023",
+            "name": "FPVL Exam 2023",
             "questions": [
                 {
                     "question": "The institution responsible for regulating the non-military aviation in Portugal is:",

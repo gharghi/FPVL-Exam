@@ -1,6 +1,8 @@
 import json
 import os
 import glob
+import sys
+
 from docx import Document
 
 
@@ -29,11 +31,12 @@ def extract_questions_from_docx(filename):
 
 def convert_to_json(directory):
     exams = []
-    files = glob.glob(os.path.join(directory, '*.docx'))  # List all .docx files in the directory
+    files = glob.glob(os.path.join(directory, '*.docx'))
+    print(files)
     for file in files:
         exam_name = os.path.splitext(os.path.basename(file))[0]
         questions = extract_questions_from_docx(file)
-        exams.append({"name": exam_name, "questions": questions})
+        exams.append({"name": f"FPVL Exam {exam_name}", "questions": questions})
 
     sorted_exams = sorted(exams, key=lambda x: x['name'])
     with open("data.json", "w", encoding="utf-8") as jsonfile:
@@ -41,4 +44,4 @@ def convert_to_json(directory):
 
 
 if __name__ == "__main__":
-    convert_to_json("exams")
+    convert_to_json(sys.argv[1])
