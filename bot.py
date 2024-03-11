@@ -12,7 +12,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Define states
-SELECTING_LANGUAGE, SELECTING_TYPE, TAKING_EXAM, EXAM_COMPLETED = range(4)
+SELECTING_LANGUAGE, SELECTING_TYPE, SELECTING_EXAM, TAKING_EXAM, EXAM_COMPLETED = range(5)
 
 # Language map with ISO codes, names, and flags
 language_map = {
@@ -22,6 +22,15 @@ language_map = {
 
 # Base directory where exam data is stored
 base_directory = 'exams'
+
+
+def create_full_width_keyboard(buttons_data):
+    keyboard = []
+    for button_text, callback_data in buttons_data.items():
+        # By creating a list for each button, each one is placed on a new row
+        keyboard.append([InlineKeyboardButton(text=button_text, callback_data=callback_data)])
+
+    return InlineKeyboardMarkup(keyboard)
 
 def load_languages():
     available_languages = []
@@ -70,25 +79,43 @@ async def select_type(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int
     context.user_data['selected_type'] = selected_type  # Store the selected type as well
     exams = load_exam_data(selected_language, selected_type)
 
-    # Correcting the key used to store the current exam data
-    if exams:
-        context.user_data['current_exams'] = exams  # This should be a list of exams
-        context.user_data['question_index'] = 0
-        context.user_data['correct_answers'] = 0
 
-        await ask_question(update, context)
-        return TAKING_EXAM
+    if exams:
+        exam_list = [(index, exam["name"]) for index, exam in enumerate(exams)]
+        keyboard = []
+        for index, name in exam_list:
+            keyboard.append([InlineKeyboardButton(name, callback_data=str(index))])
+
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        await query.edit_message_text('Please select an exam:', reply_markup=reply_markup)
+        return SELECTING_EXAM
+
     else:
         # Handle case where no exams are found or there's an issue with the data file
         await query.edit_message_text('No exams found for the selected type. Please try another option.')
         return SELECTING_TYPE
 
+async def select_exam(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
+    query = update.callback_query
+    await query.answer()
+
+    exam_index = int(query.data)
+    selected_language = context.user_data.get('selected_language')
+    selected_type = context.user_data.get('selected_type')
+    exams = load_exam_data(selected_language, selected_type)
+
+    context.user_data['current_exam'] = exams[exam_index]
+    context.user_data['question_index'] = 0
+    context.user_data['correct_answers'] = 0
+
+    await ask_question(update, context)
+    return TAKING_EXAM
+
 
 async def ask_question(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     question_index = context.user_data.get('question_index', 0)
 
-    # Assuming we're working with the first exam for simplicity; adjust based on your logic.
-    current_exam = context.user_data.get('current_exams', [])[0]
+    current_exam = context.user_data.get('current_exam', [])
 
     if question_index < len(current_exam['questions']):
         question = current_exam['questions'][question_index]
@@ -120,8 +147,8 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
 
     callback_data = query.data
     question_index = context.user_data.get('question_index', 0)
-    current_exams = context.user_data.get('current_exams', [])
-    current_exam = current_exams[0] if current_exams else None
+    current_exam = context.user_data.get('current_exam', [])
+    # current_exam = current_exams[0] if current_exams else None
 
     if callback_data.startswith("answer_"):
         selected_option_index = int(callback_data.split("_")[1])
@@ -161,10 +188,10 @@ async def next_question(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
     await query.answer()
 
     question_index = context.user_data.get('question_index', 0) + 1
-    current_exams = context.user_data.get('current_exams', [])
+    current_exam = context.user_data.get('current_exam', [])
 
     # Assuming we're working with the first exam for simplicity; adjust based on your logic.
-    current_exam = current_exams[0] if current_exams else None
+    # current_exam = current_exams[0] if current_exams else None
 
     if current_exam and question_index < len(current_exam['questions']):
         context.user_data['question_index'] = question_index
@@ -177,7 +204,7 @@ async def exam_completed(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
     correct_answers = context.user_data['correct_answers']
 
     # Assuming the first exam in the list for demonstration
-    current_exam = context.user_data.get('current_exams', [])[0]  # Adjust this based on your exam selection logic
+    current_exam = context.user_data.get('current_exam', [])
 
     selected_language = context.user_data.get('selected_language')
     selected_type = context.user_data.get('selected_type')
@@ -227,6 +254,7 @@ def main():
         states={
             SELECTING_LANGUAGE: [CallbackQueryHandler(select_language)],
             SELECTING_TYPE: [CallbackQueryHandler(select_type)],
+            SELECTING_EXAM: [CallbackQueryHandler(select_exam)],
             TAKING_EXAM: [CallbackQueryHandler(handle_answer, pattern='^answer_'), CallbackQueryHandler(next_question, pattern='^next')],
             EXAM_COMPLETED: []
         },
