@@ -64,3 +64,22 @@ button.incorrect-answer {
   color: #333; /* Darker text color for result */
   margin-top: 20px;
 }
+
+#quiz-container {
+    position: relative; /* Ensure the container is positioned */
+}
+
+#return-home-button {
+    /*position: absolute;*/
+    top: 10px; /* Adjust as needed */
+  width: 100px;
+    right: 10px; /* Adjust as needed */
+    padding: 5px 10px;
+    font-size: 12px; /* Adjust as needed */
+
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+

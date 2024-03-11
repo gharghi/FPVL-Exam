@@ -163,3 +163,8 @@ function finishQuiz() {
         window.location.reload();
     });
 }
+
+
+document.getElementById('return-home-button').addEventListener('click', () => {
+    window.location.href = 'index.html'; // Navigate to the home page
+});
